@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crossref Journal Fetcher</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .result {
+            margin-top: 20px;
+            display: none;
+        }
+        .loading {
+            display: none;
+            margin-top: 20px;
+        }
+        .section {
+            margin-bottom: 40px;
+            padding: 20px;
+            border: 1px solid #dee2e6;
+            border-radius: 8px;
+        }
+        .button-group {
+            display: flex;
+            gap: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1 class="mb-4">Crossref Journal Fetcher</h1>
+    
+    <div class="section">
+        <h2 class="h4 mb-3">Fetch Journal Data</h2>
+        <form id="issnForm" class="mb-4">
+            <div class="mb-3">
+                <label for="issn" class="form-label">Enter Journal ISSN:</label>
+                <input type="text" class="form-control" id="issn" name="issn" required 
+                       placeholder="e.g., 2053-9517">
+                <div class="form-text">Enter the ISSN of the journal you want to fetch data from.</div>
+            </div>
+            <button type="submit" class="btn btn-primary">Fetch Data</button>
+        </form>
+
+        <div class="loading">
+            <div class="spinner-border text-primary" role="status">
+                <span class="visually-hidden">Loading...</span>
+            </div>
+            <span class="ms-2">Fetching data... This may take a few minutes.</span>
+        </div>
+
+        <div class="result alert" role="alert"></div>
+    </div>
+
+    <div class="section">
+        <h2 class="h4 mb-3">ChromaDB Management</h2>
+        <p class="text-muted mb-3">Manage your ChromaDB collection.</p>
+        <div class="button-group">
+            <button id="generateChroma" class="btn btn-success">Generate ChromaDB</button>
+            <button id="purgeChroma" class="btn btn-danger">Purge ChromaDB</button>
+        </div>
+        <div id="chromaResult" class="alert mt-3" style="display: none;"></div>
+    </div>
+
+    <!-- Abstract Enrichment -->
+    <div class="section">
+        <h2 class="h4 mb-3">Abstract Enrichment</h2>
+        <p class="text-muted mb-3">Enrich your data with abstracts from OpenAlex.</p>
+        <div class="button-group">
+            <button id="enrichAbstractsBtn" class="btn btn-primary">
+                Enrich with Abstracts
+            </button>
+        </div>
+        <div id="enrichmentStatus" class="alert mt-3" style="display: none;"></div>
+        <div id="enrichmentStats" class="mt-3"></div>
+    </div>
+
+    <script>
+        // Handle ISSN form submission
+        document.getElementById('issnForm').addEventListener('submit', async (e) => {
+            e.preventDefault();
+            
+            const issn = document.getElementById('issn').value;
+            const loading = document.querySelector('.loading');
+            const result = document.querySelector('.result');
+            
+            // Show loading, hide result
+            loading.style.display = 'block';
+            result.style.display = 'none';
+            
+            try {
+                const response = await fetch('/fetch', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/x-www-form-urlencoded',
+                    },
+                    body: `issn=${encodeURIComponent(issn)}`
+                });
+                
+                const data = await response.json();
+                
+                if (response.ok) {
+                    result.className = 'result alert alert-success';
+                    result.innerHTML = `
+                        ${data.message}<br>
+                        <a href="/download/${data.filename}" class="btn btn-success mt-2">Download JSON File</a>
+                    `;
+                } else {
+                    result.className = 'result alert alert-danger';
+                    result.textContent = data.error;
+                }
+            } catch (error) {
+                result.className = 'result alert alert-danger';
+                result.textContent = 'An error occurred while fetching the data.';
+            } finally {
+                loading.style.display = 'none';
+                result.style.display = 'block';
+            }
+        });
+
+        // Handle ChromaDB generation
+        document.getElementById('generateChroma').addEventListener('click', async () => {
+            const button = document.getElementById('generateChroma');
+            const result = document.getElementById('chromaResult');
+            
+            button.disabled = true;
+            result.style.display = 'none';
+            
+            try {
+                const response = await fetch('/generate-chroma', {
+                    method: 'POST'
+                });
+                
+                const data = await response.json();
+                
+                if (response.ok) {
+                    result.className = 'alert alert-success';
+                    result.textContent = data.message;
+                } else {
+                    result.className = 'alert alert-danger';
+                    result.textContent = data.error;
+                }
+            } catch (error) {
+                result.className = 'alert alert-danger';
+                result.textContent = 'An error occurred while generating the ChromaDB collection.';
+            } finally {
+                button.disabled = false;
+                result.style.display = 'block';
+            }
+        });
+
+        // Handle ChromaDB purge
+        document.getElementById('purgeChroma').addEventListener('click', async () => {
+            if (!confirm('Are you sure you want to purge the ChromaDB collection? This action cannot be undone.')) {
+                return;
+            }
+
+            const button = document.getElementById('purgeChroma');
+            const result = document.getElementById('chromaResult');
+            
+            button.disabled = true;
+            result.style.display = 'none';
+            
+            try {
+                const response = await fetch('/purge-chroma', {
+                    method: 'POST'
+                });
+                
+                const data = await response.json();
+                
+                if (response.ok) {
+                    result.className = 'alert alert-success';
+                    result.textContent = data.message;
+                } else {
+                    result.className = 'alert alert-danger';
+                    result.textContent = data.error;
+                }
+            } catch (error) {
+                result.className = 'alert alert-danger';
+                result.textContent = 'An error occurred while purging the ChromaDB collection.';
+            } finally {
+                button.disabled = false;
+                result.style.display = 'block';
+            }
+        });
+
+        // Abstract Enrichment
+        document.getElementById('enrichAbstractsBtn').addEventListener('click', async function() {
+            const button = this;
+            const statusDiv = document.getElementById('enrichmentStatus');
+            const statsDiv = document.getElementById('enrichmentStats');
+            
+            button.disabled = true;
+            statusDiv.textContent = 'Enriching data with abstracts...';
+            statsDiv.textContent = '';
+            
+            try {
+                const response = await fetch('/enrich_abstracts', {
+                    method: 'POST'
+                });
+                
+                const data = await response.json();
+                
+                if (data.error) {
+                    statusDiv.textContent = `Error: ${data.error}`;
+                } else {
+                    statusDiv.textContent = data.message;
+                    
+                    // Display statistics
+                    const stats = data.stats;
+                    statsDiv.innerHTML = `
+                        <div class="mt-2">
+                            <p>Total files processed: ${stats.total_files}</p>
+                            <p>Total papers: ${stats.total_papers}</p>
+                            <p>Papers with abstracts: ${stats.papers_with_abstracts}</p>
+                            <p>New abstracts added: ${stats.new_abstracts_added}</p>
+                            <p>Errors encountered: ${stats.errors}</p>
+                        </div>
+                    `;
+                }
+            } catch (error) {
+                statusDiv.textContent = `Error: ${error.message}`;
+            } finally {
+                button.disabled = false;
+            }
+        });
+    </script>
+</body>
+</html> 

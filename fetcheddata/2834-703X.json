@@ -1,0 +1,1172 @@
+[
+  {
+    "id": "5cbe6881-efef-45d1-a494-5be64381302f",
+    "title": "Critical AI and Design Justice: An Interview with Sasha Costanza-Chock",
+    "abstract": "",
+    "metadata": {
+      "doi": "10.1215/2834703x-10734036",
+      "type": "journal-article",
+      "published": [
+        2023,
+        10,
+        1
+      ],
+      "authors": [
+        "Kristin Rose",
+        "Kate Henne",
+        "Sabelo Mhlambi",
+        "Anand Sarwate",
+        "Sasha Costanza-Chock"
+      ],
+      "url": "https://doi.org/10.1215/2834703x-10734036",
+      "publisher": "Duke University Press",
+      "container_title": "Critical AI",
+      "volume": "1",
+      "issue": "1-2",
+      "page": "",
+      "subject": [],
+      "language": "en",
+      "issn": [
+        "2834-703X"
+      ],
+      "isbn": [],
+      "references_count": 0,
+      "is_referenced_by_count": 0,
+      "score": 0.0
+    }
+  },
+  {
+    "id": "b8c9df68-b5b7-4f31-91e8-81011fc67f9f",
+    "title": "Editor's Introduction: Humanities in the Loop",
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>This editor's introduction welcomes readers to a new interdisciplinary undertaking. The community of practice Critical AI addresses hopes to bring critical thinking of the kind that interpretive disciplines foster into dialogue with work by technologists and others who share the understanding of interdisciplinary research as a powerful tool for building accountable technology in the public interest. Critical AI studies aims to shape and activate conversations in academia, industry, policymaking, media, and the public at large. The long and ongoing history of “AI,” including the data-driven technologies that now claim that name, remains riddled by three core dilemmas: (1) reductive and controversial meanings of “intelligence”; (2) problematic benchmarks and tests for supposedly scientific terms such as “AGI”; and (3) bias, errors, stereotypes, and concentration of power. AI hype today is steeped in blends of utopian and dystopian discourse that distract from the real-world harms of existing technologies. In reality, what is hyped and anthropomorphized as “AI” and even “AGI” is the product not only of technology companies and investors but also—and more fundamentally—of the many millions of people and communities subject to copyright infringement, nonconsensual use of data, bias, environmental harms, and the low-wage and high-stress modes of “human in the loop” through which systems for probabilistic mimicry improve their performance in an imitation game.</jats:p>",
+    "metadata": {
+      "doi": "10.1215/2834703x-10734016",
+      "type": "journal-article",
+      "published": [
+        2023,
+        10,
+        1
+      ],
+      "authors": [
+        "Lauren M. E. Goodlad"
+      ],
+      "url": "https://doi.org/10.1215/2834703x-10734016",
+      "publisher": "Duke University Press",
+      "container_title": "Critical AI",
+      "volume": "1",
+      "issue": "1-2",
+      "page": "",
+      "subject": [],
+      "language": "en",
+      "issn": [
+        "2834-703X"
+      ],
+      "isbn": [],
+      "references_count": 78,
+      "is_referenced_by_count": 3,
+      "score": 0.0
+    }
+  },
+  {
+    "id": "fa100ec3-8190-439a-b3fe-a3cb2ab8a0c2",
+    "title": "<i>The Shame Machine: Who Profits in the New Age of Humiliation</i>, by Cathy O'Neil",
+    "abstract": "",
+    "metadata": {
+      "doi": "10.1215/2834703x-10734086",
+      "type": "journal-article",
+      "published": [
+        2023,
+        10,
+        1
+      ],
+      "authors": [
+        "Heather Love"
+      ],
+      "url": "https://doi.org/10.1215/2834703x-10734086",
+      "publisher": "Duke University Press",
+      "container_title": "Critical AI",
+      "volume": "1",
+      "issue": "1-2",
+      "page": "",
+      "subject": [],
+      "language": "en",
+      "issn": [
+        "2834-703X"
+      ],
+      "isbn": [],
+      "references_count": 1,
+      "is_referenced_by_count": 0,
+      "score": 0.0
+    }
+  },
+  {
+    "id": "beb4dc5d-15ca-4d34-8efd-dc78b3dca685",
+    "title": "Beyond Chatbot-K: On Large Language Models, “Generative AI,” and Rise of Chatbots—An Introduction",
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>This essay introduces the history of the “generative AI” paradigm, including its underlying political economy, key technical developments, and sociocultural and environmental effects. In concert with this framing it discusses the articles, thinkpieces, and reviews that make up part 1 of this two-part special issue (along with some of the content for part 2). Although large language models (LLMs) are marketed as scientific wonders, they were not designed to function as either reliable interactive systems or robust tools for supporting human communication or information access. Their development and deployment as commercial tools in a climate of reductive data positivism and underregulated corporate power overturned a long history in which researchers regarded chatbots as “misaligned” affordances for safe or reliable public use. While the technical underpinnings of these much-hyped systems are guarded as proprietary secrets that cannot be shared with researchers, regulators, or the public at large, there is ample evidence to show that their development depends on the expropriation and privatization of human-generated content (much of it under copyright); the expenditure of enormous computing resources (including energy, water, and scarce materials); and the hidden exploitation of armies of human workers whose low-paid and high-stress labor makes “AI” seem more like human “intelligence” or communication. At the same time, the marketing of chatbots propagates a deceptive ideology of “frictionless knowing” that conflates a person's ability to leverage a tool for producing an output with that person's active understanding and awareness of the relevant information or truth claims therein. By contrast, the best digital infrastructures for human writing enable human users by amplifying and concretizing their interactive role in crafting trains of contemplation and rendering this situated experience in shareable form. The essay concludes with reflections on alternative pathways for developing AI—including communicative tools—in the public interest.</jats:p>",
+    "metadata": {
+      "doi": "10.1215/2834703x-11205147",
+      "type": "journal-article",
+      "published": [
+        2024,
+        4,
+        1
+      ],
+      "authors": [
+        "Lauren M. E. Goodlad",
+        "Matthew Stone"
+      ],
+      "url": "https://doi.org/10.1215/2834703x-11205147",
+      "publisher": "Duke University Press",
+      "container_title": "Critical AI",
+      "volume": "2",
+      "issue": "1",
+      "page": "",
+      "subject": [],
+      "language": "en",
+      "issn": [
+        "2834-703X"
+      ],
+      "isbn": [],
+      "references_count": 270,
+      "is_referenced_by_count": 0,
+      "score": 0.0
+    }
+  },
+  {
+    "id": "e382bafa-7c8a-42a6-80ff-57f041c73ce3",
+    "title": "<i>Algorithms for the People: Democracy in the Age of AI</i>, by Josh Simons",
+    "abstract": "",
+    "metadata": {
+      "doi": "10.1215/2834703x-11205259",
+      "type": "journal-article",
+      "published": [
+        2024,
+        4,
+        1
+      ],
+      "authors": [
+        "Lucia M. Rafanelli"
+      ],
+      "url": "https://doi.org/10.1215/2834703x-11205259",
+      "publisher": "Duke University Press",
+      "container_title": "Critical AI",
+      "volume": "2",
+      "issue": "1",
+      "page": "",
+      "subject": [],
+      "language": "en",
+      "issn": [
+        "2834-703X"
+      ],
+      "isbn": [],
+      "references_count": 8,
+      "is_referenced_by_count": 0,
+      "score": 0.0
+    }
+  },
+  {
+    "id": "06368e97-c4dd-41fd-96e3-f20520ed8a6d",
+    "title": "A Blueprint for an AI Bill of Rights for Education",
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>In the wake of the introduction of ChatGPT, educators have been faced with pressure to adapt to the disruptive technology of AI chatbots. But these tools were not developed with educational applications in mind, and they come with many potential risks and harms to students. As educators decide how to address generative systems in their classrooms in the context of an ever-changing technological landscape, this essay offers a starting point for conversations about policy and protections. It begins with the rights articulated by the US Office of Science and Technology Policy and goes on to elaborate rights for educators and students, including institutional support for critical AI literacy professional development; educator collaboration on AI policy and purchase and implementation of generative systems; protection of student privacy and creative control; and consultation, notice, guidance, and appeal structures for students.</jats:p>",
+    "metadata": {
+      "doi": "10.1215/2834703x-11205245",
+      "type": "journal-article",
+      "published": [
+        2024,
+        4,
+        1
+      ],
+      "authors": [
+        "Kathryn Conrad"
+      ],
+      "url": "https://doi.org/10.1215/2834703x-11205245",
+      "publisher": "Duke University Press",
+      "container_title": "Critical AI",
+      "volume": "2",
+      "issue": "1",
+      "page": "",
+      "subject": [],
+      "language": "en",
+      "issn": [
+        "2834-703X"
+      ],
+      "isbn": [],
+      "references_count": 46,
+      "is_referenced_by_count": 2,
+      "score": 0.0
+    }
+  },
+  {
+    "id": "12e43401-3fe8-4a07-a764-b4e551696aad",
+    "title": "<i>Discriminating Data: Correlation, Neighborhoods, and the New Politics of Recognition</i>, by Wendy Hui Kyong Chun",
+    "abstract": "",
+    "metadata": {
+      "doi": "10.1215/2834703x-10734106",
+      "type": "journal-article",
+      "published": [
+        2023,
+        10,
+        1
+      ],
+      "authors": [
+        "James Smithies"
+      ],
+      "url": "https://doi.org/10.1215/2834703x-10734106",
+      "publisher": "Duke University Press",
+      "container_title": "Critical AI",
+      "volume": "1",
+      "issue": "1-2",
+      "page": "",
+      "subject": [],
+      "language": "en",
+      "issn": [
+        "2834-703X"
+      ],
+      "isbn": [],
+      "references_count": 11,
+      "is_referenced_by_count": 0,
+      "score": 0.0
+    }
+  },
+  {
+    "id": "b23c9a97-9a9d-4d3e-83a7-af84ed57b73f",
+    "title": "<i>Artificial Life after Frankenstein</i>, by Eileen Hunt Botting",
+    "abstract": "",
+    "metadata": {
+      "doi": "10.1215/2834703x-10734096",
+      "type": "journal-article",
+      "published": [
+        2023,
+        10,
+        1
+      ],
+      "authors": [
+        "Seth Perlow"
+      ],
+      "url": "https://doi.org/10.1215/2834703x-10734096",
+      "publisher": "Duke University Press",
+      "container_title": "Critical AI",
+      "volume": "1",
+      "issue": "1-2",
+      "page": "",
+      "subject": [],
+      "language": "en",
+      "issn": [
+        "2834-703X"
+      ],
+      "isbn": [],
+      "references_count": 0,
+      "is_referenced_by_count": 0,
+      "score": 0.0
+    }
+  },
+  {
+    "id": "d32ff823-f5c3-41c3-8fb9-7418323c2b34",
+    "title": "Sustainable Data Rivers? Rebalancing the Data Ecosystem That Underlies Generative AI",
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>The salient concern, today, is not whether copyright law will “allow robots to learn.” The pressing question is whether the exploitation of the data ecosystem that has made generative AI possible can be made socially sustainable. Just as the human right to water is only possible if reasonable use and reciprocity constraints are imposed on the economic exploitation of rivers, so is the fundamental right to access culture, learn, and build upon it. To restore this right to its proper place within the balancing act IP law is supposed to enable demands fundamental legal reform. This article explores the merits of reconstructing copyright as a permitted privilege (rather than property right). It also highlights the extent to which, for such reform to bear fruit and contribute to a socially sustainable data ecosystem, it needs to be supported by bottom-up participatory infrastructure.</jats:p>",
+    "metadata": {
+      "doi": "10.1215/2834703x-11205224",
+      "type": "journal-article",
+      "published": [
+        2024,
+        4,
+        1
+      ],
+      "authors": [
+        "Sylvie Delacroix"
+      ],
+      "url": "https://doi.org/10.1215/2834703x-11205224",
+      "publisher": "Duke University Press",
+      "container_title": "Critical AI",
+      "volume": "2",
+      "issue": "1",
+      "page": "",
+      "subject": [],
+      "language": "en",
+      "issn": [
+        "2834-703X"
+      ],
+      "isbn": [],
+      "references_count": 51,
+      "is_referenced_by_count": 0,
+      "score": 0.0
+    }
+  },
+  {
+    "id": "f730bb3a-9ec7-4960-9af0-9b9e9dd867de",
+    "title": "<i>Economies of Virtue: The Circulation of Ethics in AI</i>, edited by Thao Phan, Jake Goldenfein, Declan Kuch, and Monique Mann",
+    "abstract": "",
+    "metadata": {
+      "doi": "10.1215/2834703x-11205273",
+      "type": "journal-article",
+      "published": [
+        2024,
+        4,
+        1
+      ],
+      "authors": [
+        "Ewa Plonowska Ziarek"
+      ],
+      "url": "https://doi.org/10.1215/2834703x-11205273",
+      "publisher": "Duke University Press",
+      "container_title": "Critical AI",
+      "volume": "2",
+      "issue": "1",
+      "page": "",
+      "subject": [],
+      "language": "en",
+      "issn": [
+        "2834-703X"
+      ],
+      "isbn": [],
+      "references_count": 0,
+      "is_referenced_by_count": 0,
+      "score": 0.0
+    }
+  },
+  {
+    "id": "5a83d5cd-7c06-4411-86b9-80ecdffed9f0",
+    "title": "<i>Responsible AI in Africa: Challenges and Opportunities</i>, edited by Damian Okaibedi Eke, Kutoma Wakunuma, and Simsola Akintoye",
+    "abstract": "",
+    "metadata": {
+      "doi": "10.1215/2834703x-11205294",
+      "type": "journal-article",
+      "published": [
+        2024,
+        4,
+        1
+      ],
+      "authors": [
+        "Roopika Risam"
+      ],
+      "url": "https://doi.org/10.1215/2834703x-11205294",
+      "publisher": "Duke University Press",
+      "container_title": "Critical AI",
+      "volume": "2",
+      "issue": "1",
+      "page": "",
+      "subject": [],
+      "language": "en",
+      "issn": [
+        "2834-703X"
+      ],
+      "isbn": [],
+      "references_count": 0,
+      "is_referenced_by_count": 0,
+      "score": 0.0
+    }
+  },
+  {
+    "id": "c326d17a-3217-43dc-870c-023be723d0e2",
+    "title": "OpenAI's Pharmacy? On the <i>Phaedrus</i> Analogy for Large Language Models",
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Plato's dialogue Phaedrus is often used as a cautionary tale about the futility of distrusting new communicative technologies. But in the context of LLMs (large language models), the Phaedrus analogy is substantially misplaced. LLMs exclude the free play of language, producing texts not only without writers, but also without writing (in Jacques Derrida's sense). The Phaedrus analogy thus risks justifying the swift adoption of a commercial tool that is poorly understood, demonstrably flawed, and reliant on laborious human interventions.</jats:p>",
+    "metadata": {
+      "doi": "10.1215/2834703x-11205203",
+      "type": "journal-article",
+      "published": [
+        2024,
+        4,
+        1
+      ],
+      "authors": [
+        "Chloë Kitzinger"
+      ],
+      "url": "https://doi.org/10.1215/2834703x-11205203",
+      "publisher": "Duke University Press",
+      "container_title": "Critical AI",
+      "volume": "2",
+      "issue": "1",
+      "page": "",
+      "subject": [],
+      "language": "en",
+      "issn": [
+        "2834-703X"
+      ],
+      "isbn": [],
+      "references_count": 18,
+      "is_referenced_by_count": 0,
+      "score": 0.0
+    }
+  },
+  {
+    "id": "d6ee2490-489b-49ed-9079-cf159d13f9b3",
+    "title": "Beyond Insiders and Outsiders: Transdisciplinary Critical AI",
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Part book review, part thinkpiece, this essay explores the possibilities and limitations for critical AI raised by the edited collection The Cultural Life of Machine Learning: An Incursion into Critical AI Studies (2021). It identifies three practices for scholars in the humanities and social sciences seeking to broaden their research expertise: go beyond identifying the problem; expand cultures of innovation; and understand technological systems as social actors in a transdisciplinary endeavor.</jats:p>",
+    "metadata": {
+      "doi": "10.1215/2834703x-11205252",
+      "type": "journal-article",
+      "published": [
+        2024,
+        4,
+        1
+      ],
+      "authors": [
+        "Megan Ward"
+      ],
+      "url": "https://doi.org/10.1215/2834703x-11205252",
+      "publisher": "Duke University Press",
+      "container_title": "Critical AI",
+      "volume": "2",
+      "issue": "1",
+      "page": "",
+      "subject": [],
+      "language": "en",
+      "issn": [
+        "2834-703X"
+      ],
+      "isbn": [],
+      "references_count": 12,
+      "is_referenced_by_count": 0,
+      "score": 0.0
+    }
+  },
+  {
+    "id": "31acb8ca-9e9d-4516-ae7b-2beac72ad298",
+    "title": "<i>Computational Formalism: Art History and Machine Learning</i>, by Amanda Wasielewski",
+    "abstract": "",
+    "metadata": {
+      "doi": "10.1215/2834703x-11205280",
+      "type": "journal-article",
+      "published": [
+        2024,
+        4,
+        1
+      ],
+      "authors": [
+        "Lauren Tilton"
+      ],
+      "url": "https://doi.org/10.1215/2834703x-11205280",
+      "publisher": "Duke University Press",
+      "container_title": "Critical AI",
+      "volume": "2",
+      "issue": "1",
+      "page": "",
+      "subject": [],
+      "language": "en",
+      "issn": [
+        "2834-703X"
+      ],
+      "isbn": [],
+      "references_count": 0,
+      "is_referenced_by_count": 0,
+      "score": 0.0
+    }
+  },
+  {
+    "id": "cd375c79-1276-460b-b714-1ee63d897f92",
+    "title": "The Photographic Pipeline of Machine Vision; or, Machine Vision's Latent Photographic Theory",
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Despite computer vision's extensive mobilization of cameras, photographers, and viewing subjects, photography's place in machine vision remains undertheorized. This article illuminates an operative theory of photography that exists in a latent form, embedded in the tools, practices, and discourses of machine vision research and enabling the methodological imperatives of dataset production. Focusing on the development of the canonical object recognition dataset ImageNet, the article analyzes how the dataset pipeline translates the radical polysemy of the photographic image into a stable and transparent form of data that can be portrayed as a proxy of human vision. Reflecting on the prominence of the photographic snapshot in machine vision discourse, the article traces the path that made this popular cultural practice amenable to the dataset. Following the evolution from nineteenth-century scientific photography to the acquisition of massive sets of online photos, the article shows how dataset creators inherit and transform a form of “instrumental realism,” a photographic enterprise that aims to establish a generalized look from contingent instances in the pursuit of statistical truth. The article concludes with a reflection on how the latent photographic theory of machine vision we have advanced relates to the large image models built for generative AI today.</jats:p>",
+    "metadata": {
+      "doi": "10.1215/2834703x-10734066",
+      "type": "journal-article",
+      "published": [
+        2023,
+        10,
+        1
+      ],
+      "authors": [
+        "Nicolas Malevé",
+        "Katrina Sluis"
+      ],
+      "url": "https://doi.org/10.1215/2834703x-10734066",
+      "publisher": "Duke University Press",
+      "container_title": "Critical AI",
+      "volume": "1",
+      "issue": "1-2",
+      "page": "",
+      "subject": [],
+      "language": "en",
+      "issn": [
+        "2834-703X"
+      ],
+      "isbn": [],
+      "references_count": 45,
+      "is_referenced_by_count": 0,
+      "score": 0.0
+    }
+  },
+  {
+    "id": "ad46a8db-d19d-4a5b-8f07-ad22ccbf1d2b",
+    "title": "Scrapism: A Manifesto",
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Web scraping is a technique for automatically downloading and processing web content or converting online text and other media into structured data. This article describes the role that web scraping plays for web businesses and machine learning systems and the fundamental tension between the openness of the web and the interests of private corporations. It then goes on to sketch an outline for “scrapism,” the practice of using web scraping for artistic, critical, and political ends.</jats:p>",
+    "metadata": {
+      "doi": "10.1215/2834703x-10734046",
+      "type": "journal-article",
+      "published": [
+        2023,
+        10,
+        1
+      ],
+      "authors": [
+        "Sam Lavigne"
+      ],
+      "url": "https://doi.org/10.1215/2834703x-10734046",
+      "publisher": "Duke University Press",
+      "container_title": "Critical AI",
+      "volume": "1",
+      "issue": "1-2",
+      "page": "",
+      "subject": [],
+      "language": "en",
+      "issn": [
+        "2834-703X"
+      ],
+      "isbn": [],
+      "references_count": 34,
+      "is_referenced_by_count": 0,
+      "score": 0.0
+    }
+  },
+  {
+    "id": "201fa6fa-92d0-407c-ac9d-eca7c94eb329",
+    "title": "Harriet Tubman's Deep Voice",
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>The authors suggest that national investment in the educational utility of automated software comes at an enormous cost, a price paid by the very students that technology aims to convert to history as a lively and accessible field. This “high-tech mimicry” pretends to incarnate the past but instead silences the inflections of time, gender, region, race, or other vocalic variables. Further, the perception that technology is objective or unbiased conceals the vulnerabilities of language models. The authors argue that the illusions of authenticity these bots produce does not bode well for teaching African American history.</jats:p>",
+    "metadata": {
+      "doi": "10.1215/2834703x-11205217",
+      "type": "journal-article",
+      "published": [
+        2024,
+        4,
+        1
+      ],
+      "authors": [
+        "Maurice Wallace",
+        "Matthew Peeler"
+      ],
+      "url": "https://doi.org/10.1215/2834703x-11205217",
+      "publisher": "Duke University Press",
+      "container_title": "Critical AI",
+      "volume": "2",
+      "issue": "1",
+      "page": "",
+      "subject": [],
+      "language": "en",
+      "issn": [
+        "2834-703X"
+      ],
+      "isbn": [],
+      "references_count": 7,
+      "is_referenced_by_count": 0,
+      "score": 0.0
+    }
+  },
+  {
+    "id": "b85dbd7a-6da7-4049-a233-e6ed51096457",
+    "title": "<i>The Internet Is Not What You Think It Is: A History, a Philosophy, a Warning</i>, by Justin E. H. Smith",
+    "abstract": "",
+    "metadata": {
+      "doi": "10.1215/2834703x-11205287",
+      "type": "journal-article",
+      "published": [
+        2024,
+        4,
+        1
+      ],
+      "authors": [
+        "Prem Sylvester"
+      ],
+      "url": "https://doi.org/10.1215/2834703x-11205287",
+      "publisher": "Duke University Press",
+      "container_title": "Critical AI",
+      "volume": "2",
+      "issue": "1",
+      "page": "",
+      "subject": [],
+      "language": "en",
+      "issn": [
+        "2834-703X"
+      ],
+      "isbn": [],
+      "references_count": 0,
+      "is_referenced_by_count": 0,
+      "score": 0.0
+    }
+  },
+  {
+    "id": "4dd3eb62-a0c9-42c6-b04f-ba500410b9d6",
+    "title": "The Origins of Generative AI in Transcription and Machine Translation, and Why That Matters",
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>In this essay, written in dialogue with the introduction to this special issue, the authors offer a critical history of the development of large language models (LLMs). The essay's goal is to clearly explicate their functionalities and illuminate the effects of their “generative” capacities—particularly the troubling divergences between how these models came into being, how they are currently developed, and how they are marketed. The evolution of LLMs and of their deployment as chatbots was not rooted in the design of interactive systems or in robust frameworks for humanlike communication or information access. Instead LLMs—in particular, generative pretrained transformers (GPTs)—arose through the steady advance of statistical proxies for predicting the plausibility of automated transcriptions and translations. Buoyed by their increasing faith in scale and “data positivism,” researchers adapted these powerful models for the probabilistic scoring of text to chat interaction and other “generative” applications—even though the models generate convincingly humanlike output without any means of tracking its provenance or ensuring its veracity. The authors contrast this technical trajectory with other intellectual currents in AI research that aimed to create empowering tools to help users to accomplish explicit goals by augmenting their capabilities to think, act, and communicate, through mechanisms that were transparent and accountable. The comparison to this “road not taken” positions the weaknesses of LLMs, chatbots, and LLM-based digital assistants—including their well-known “misalignment” with helpful and safe human use—as a reflection of developers’ failure to conceptualize and pursue their ambitions for intelligent assistance as responsible to and engaged with a broader public.</jats:p>",
+    "metadata": {
+      "doi": "10.1215/2834703x-11256853",
+      "type": "journal-article",
+      "published": [
+        2024,
+        4,
+        1
+      ],
+      "authors": [
+        "Matthew Stone",
+        "Lauren M. E. Goodlad",
+        "Mark Sammons"
+      ],
+      "url": "https://doi.org/10.1215/2834703x-11256853",
+      "publisher": "Duke University Press",
+      "container_title": "Critical AI",
+      "volume": "2",
+      "issue": "1",
+      "page": "",
+      "subject": [],
+      "language": "en",
+      "issn": [
+        "2834-703X"
+      ],
+      "isbn": [],
+      "references_count": 104,
+      "is_referenced_by_count": 1,
+      "score": 0.0
+    }
+  },
+  {
+    "id": "a3a924ad-a477-40c0-b146-11fff6050f47",
+    "title": "<i>Viral Justice: How We Grow the World We Want</i>, by Ruha Benjamin",
+    "abstract": "",
+    "metadata": {
+      "doi": "10.1215/2834703x-10734977",
+      "type": "journal-article",
+      "published": [
+        2023,
+        10,
+        1
+      ],
+      "authors": [
+        "Josh Simons",
+        "Eli Frankel"
+      ],
+      "url": "https://doi.org/10.1215/2834703x-10734977",
+      "publisher": "Duke University Press",
+      "container_title": "Critical AI",
+      "volume": "1",
+      "issue": "1-2",
+      "page": "",
+      "subject": [],
+      "language": "en",
+      "issn": [
+        "2834-703X"
+      ],
+      "isbn": [],
+      "references_count": 0,
+      "is_referenced_by_count": 0,
+      "score": 0.0
+    }
+  },
+  {
+    "id": "698aee5f-ebc6-4dc6-ab0e-4670d775506c",
+    "title": "<i>Resisting AI: An Anti-fascist Approach to Artificial Intelligence</i>, by Dan McQuillan",
+    "abstract": "",
+    "metadata": {
+      "doi": "10.1215/2834703x-10734967",
+      "type": "journal-article",
+      "published": [
+        2023,
+        10,
+        1
+      ],
+      "authors": [
+        "David Golumbia"
+      ],
+      "url": "https://doi.org/10.1215/2834703x-10734967",
+      "publisher": "Duke University Press",
+      "container_title": "Critical AI",
+      "volume": "1",
+      "issue": "1-2",
+      "page": "",
+      "subject": [],
+      "language": "en",
+      "issn": [
+        "2834-703X"
+      ],
+      "isbn": [],
+      "references_count": 0,
+      "is_referenced_by_count": 0,
+      "score": 0.0
+    }
+  },
+  {
+    "id": "54784776-a49f-4226-95e4-b983e80b8467",
+    "title": "The Ethics of (Generative) AI",
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>The clamor for AI-based applications involving generative models for text and images has fueled wild speculation about the risks and opportunities for society and humanity at large. The potential “existential” threat as a precursor to artificial general intelligence has provoked wide-ranging debates in the public, politics, and the corporate world involving technologists and ethicists from a range of academic disciplines. This thinkpiece proposes a metaperspective to reflect critically and constructively upon the current state of the field of AI ethics, arguing that scholars working in the domain of ethics should focalize conceptual, substantive, and procedural issues as integral elements of an ethical assessment of given technologies and their applications. It suggests that the ethics of generative AI is conceptually still underexplored and overly propagating technological fixes to problems of all kinds (technosolutionism). Procedurally, it needs to be clarified who can, who ought to, and who ultimately will be considered and heard as an expert on AI ethics, a question of relevance for the trust in, and reliance on, AI.</jats:p>",
+    "metadata": {
+      "doi": "10.1215/2834703x-11205175",
+      "type": "journal-article",
+      "published": [
+        2024,
+        4,
+        1
+      ],
+      "authors": [
+        "Hendrik Kempt",
+        "Jan-Christoph Heilinger"
+      ],
+      "url": "https://doi.org/10.1215/2834703x-11205175",
+      "publisher": "Duke University Press",
+      "container_title": "Critical AI",
+      "volume": "2",
+      "issue": "1",
+      "page": "",
+      "subject": [],
+      "language": "en",
+      "issn": [
+        "2834-703X"
+      ],
+      "isbn": [],
+      "references_count": 19,
+      "is_referenced_by_count": 0,
+      "score": 0.0
+    }
+  },
+  {
+    "id": "d1a14bc0-628a-40b7-9f2a-37e36a1f6f1c",
+    "title": "A Sociolinguist's Look at the “Language” in Large Language Models",
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Large language models (LLMs) work by training text-generating systems through the use of digitized corpora that make natural language available in datafied form for natural language processing. LLMs are rooted in these culture-specific, socio-historically conditioned understandings of language, inaugurated during the imperial age of national print cultures and further consolidated by computing culture itself. However, understanding languages as digital data sets whose patterns can be probabilistically reproduced is a simplistic reduction of an already reified linguistic epistemology. This article discusses the sociolinguistic implications of LLM design and implementation.</jats:p>",
+    "metadata": {
+      "doi": "10.1215/2834703x-11205168",
+      "type": "journal-article",
+      "published": [
+        2024,
+        4,
+        1
+      ],
+      "authors": [
+        "Britta Schneider"
+      ],
+      "url": "https://doi.org/10.1215/2834703x-11205168",
+      "publisher": "Duke University Press",
+      "container_title": "Critical AI",
+      "volume": "2",
+      "issue": "1",
+      "page": "",
+      "subject": [],
+      "language": "en",
+      "issn": [
+        "2834-703X"
+      ],
+      "isbn": [],
+      "references_count": 40,
+      "is_referenced_by_count": 0,
+      "score": 0.0
+    }
+  },
+  {
+    "id": "cd39faf6-cfcb-4fc1-b8f6-7e2c5e108d8d",
+    "title": "What Large Language Models Know",
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>The strengths and weaknesses of generative applications built on large language models are by now well-known. They excel at the production of discourse in a variety of genres and styles, from poetry to programs, as well as the combination of these into novel forms. They perform well at high-level question answering, dialogue, and reasoning tasks, suggesting the possession of general intelligence. However, they frequently produce formally correct but factually or logically wrong statements. This essay argues that such failures—so-called hallucinations—are not accidental glitches but are instead a by-product of the design of the transformer architecture on which large language models are built, given its foundation on the distributional hypothesis, a nonreferential approach to meaning. Even when outputs are correct, they do not meet the basic epistemic criterion of justified true belief, suggesting the need to revisit the long neglected relationship between language and reference.</jats:p>",
+    "metadata": {
+      "doi": "10.1215/2834703x-11205161",
+      "type": "journal-article",
+      "published": [
+        2024,
+        4,
+        1
+      ],
+      "authors": [
+        "Rafael C. Alvarado"
+      ],
+      "url": "https://doi.org/10.1215/2834703x-11205161",
+      "publisher": "Duke University Press",
+      "container_title": "Critical AI",
+      "volume": "2",
+      "issue": "1",
+      "page": "",
+      "subject": [],
+      "language": "en",
+      "issn": [
+        "2834-703X"
+      ],
+      "isbn": [],
+      "references_count": 15,
+      "is_referenced_by_count": 0,
+      "score": 0.0
+    }
+  },
+  {
+    "id": "3cc72627-bab0-483c-a29d-079e7477ae8a",
+    "title": "Build Word Gyms, Not Word Factories",
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>This article argues that it is essential to design algorithmic systems that help us think instead of thinking for us. The aim of the article is to give some sense of how broad and diverse is the design space of interactive systems that use computation to challenge writers to be stronger and more limber.</jats:p>",
+    "metadata": {
+      "doi": "10.1215/2834703x-11205189",
+      "type": "journal-article",
+      "published": [
+        2024,
+        4,
+        1
+      ],
+      "authors": [
+        "Kyle Booten"
+      ],
+      "url": "https://doi.org/10.1215/2834703x-11205189",
+      "publisher": "Duke University Press",
+      "container_title": "Critical AI",
+      "volume": "2",
+      "issue": "1",
+      "page": "",
+      "subject": [],
+      "language": "en",
+      "issn": [
+        "2834-703X"
+      ],
+      "isbn": [],
+      "references_count": 25,
+      "is_referenced_by_count": 0,
+      "score": 0.0
+    }
+  },
+  {
+    "id": "ea6eeb25-803b-44b1-b3f4-548bcf1be0fe",
+    "title": "Thick Description for Critical AI: Generating Data Capitalism and Provocations for a Multisensory Approach",
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>This article argues that critical AI studies should make a methodological investment in “thick description” to counteract the tendency both within computational design and business settings to presume (or, in the case of start-ups, hope for) a seamless and inevitable journey from data to monetizable domain knowledge and useful services. Perhaps the classic application of that critical data-studies framework is Marion Fourcade and Kevin Healy's influential 2017 essay, “Seeing Like a Market,” which advances a comprehensive account of how value is extracted from data-collection processes. As important as these critiques have been, the apparent inevitability of this assemblage of power, knowledge, and profit arises in part through the metaphor of “sight.” Thick description—especially when combined with a feminist and queer attention to embodiment, materiality, and multisensory experience—can in this respect supplement Fourcade and Healey's critique by revealing unexpected imaginative possibilities built out of social materialities.</jats:p>",
+    "metadata": {
+      "doi": "10.1215/2834703x-10734056",
+      "type": "journal-article",
+      "published": [
+        2023,
+        10,
+        1
+      ],
+      "authors": [
+        "Caroline E. Schuster",
+        "Kristen M. Schuster"
+      ],
+      "url": "https://doi.org/10.1215/2834703x-10734056",
+      "publisher": "Duke University Press",
+      "container_title": "Critical AI",
+      "volume": "1",
+      "issue": "1-2",
+      "page": "",
+      "subject": [],
+      "language": "en",
+      "issn": [
+        "2834-703X"
+      ],
+      "isbn": [],
+      "references_count": 47,
+      "is_referenced_by_count": 0,
+      "score": 0.0
+    }
+  },
+  {
+    "id": "4fb1d5e4-bead-46ed-9a3a-3211d488772c",
+    "title": "A Conversation with Emily M. Bender and Ted Chiang",
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>This conversation is excerpted and edited from a transcript of a live event, “Wishful Thinking and AI: An Evening with Ted Chiang and Dr. Emily M. Bender,” which took place in Seattle, Washington, on November 10, 2023. The conversation was moderated by Tom Nissley and edited for Critical AI by Lauren M. E. Goodlad and Kelsey Keyes. Questions from the audience have been edited for concision.</jats:p>",
+    "metadata": {
+      "doi": "10.1215/2834703x-11205154",
+      "type": "journal-article",
+      "published": [
+        2024,
+        4,
+        1
+      ],
+      "authors": [
+        "Emily M. Bender",
+        "Ted Chiang",
+        "Tom Nissley",
+        "Lauren M. E. Goodlad",
+        "Kelsey Keyes"
+      ],
+      "url": "https://doi.org/10.1215/2834703x-11205154",
+      "publisher": "Duke University Press",
+      "container_title": "Critical AI",
+      "volume": "2",
+      "issue": "1",
+      "page": "",
+      "subject": [],
+      "language": "en",
+      "issn": [
+        "2834-703X"
+      ],
+      "isbn": [],
+      "references_count": 0,
+      "is_referenced_by_count": 0,
+      "score": 0.0
+    }
+  },
+  {
+    "id": "551f271d-4fd5-425a-ba7d-64db0888ad2e",
+    "title": "Data Worlds: An Introduction",
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>This introductory article calls attention to the shift from the “big data” discourse of the 2000s to the current focus on “AI” in its supposedly “responsible” and “human-centered” forms. Such rhetoric helps deflect attention from the profitable and surveillant accumulation of data and the worrisome concentration of power in a handful of companies. Alert to this problematic political economy, the issue's editors engage recent theories of data capitalism and argue that attention to processes of datafication helps to elude the pitfalls of data positivism, data universalism, and unintentional criti-hype. As the authors touch upon each contribution to this special issue, they call for critical AI studies to forge an interdisciplinary community of practice, alert to ontological commitments, design justice principles, and spaces of dissensus.</jats:p>",
+    "metadata": {
+      "doi": "10.1215/2834703x-10734026",
+      "type": "journal-article",
+      "published": [
+        2023,
+        10,
+        1
+      ],
+      "authors": [
+        "Katherine Bode",
+        "Lauren M. E. Goodlad"
+      ],
+      "url": "https://doi.org/10.1215/2834703x-10734026",
+      "publisher": "Duke University Press",
+      "container_title": "Critical AI",
+      "volume": "1",
+      "issue": "1-2",
+      "page": "",
+      "subject": [],
+      "language": "en",
+      "issn": [
+        "2834-703X"
+      ],
+      "isbn": [],
+      "references_count": 121,
+      "is_referenced_by_count": 2,
+      "score": 0.0
+    }
+  },
+  {
+    "id": "33557185-1ac4-418e-93ad-8c898cded8fa",
+    "title": "<i>Data Conscience: Algorithmic Siege on Our Humanity</i>, by Brandeis Hill Marshall",
+    "abstract": "",
+    "metadata": {
+      "doi": "10.1215/2834703x-11205266",
+      "type": "journal-article",
+      "published": [
+        2024,
+        4,
+        1
+      ],
+      "authors": [
+        "Catherine D'Ignazio"
+      ],
+      "url": "https://doi.org/10.1215/2834703x-11205266",
+      "publisher": "Duke University Press",
+      "container_title": "Critical AI",
+      "volume": "2",
+      "issue": "1",
+      "page": "",
+      "subject": [],
+      "language": "en",
+      "issn": [
+        "2834-703X"
+      ],
+      "isbn": [],
+      "references_count": 0,
+      "is_referenced_by_count": 0,
+      "score": 0.0
+    }
+  },
+  {
+    "id": "c7da6c15-a919-4b2d-9ebd-24d6539ae45b",
+    "title": "The Moral Hazards of Technical Debt in Large Language Models: Why Moving Fast and Breaking Things Is Bad",
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Companies such as OpenAI and other tech start-ups often pass on “technical debt” to consumers—that is, they roll out undertested software so that users can discover errors and problems. The breakneck pace of our current AI “arms race” implicitly encourages this practice and has resulted in consumer-facing large language models (LLMs) that have problems with bias and truth and unclear social implications. Yet, once the models are out, they are rarely retracted. The result of passing on the technical debt of LLMs to users is a “moral hazard,” where companies are incentivized to take greater risks because they do not bear their full cost. The concepts of technical debt and moral hazards help to explain the dangers of LLMs to society and underscore a need for a critical approach to AI to balance the ledger of AI risks.</jats:p>",
+    "metadata": {
+      "doi": "10.1215/2834703x-11205182",
+      "type": "journal-article",
+      "published": [
+        2024,
+        4,
+        1
+      ],
+      "authors": [
+        "Annette Vee"
+      ],
+      "url": "https://doi.org/10.1215/2834703x-11205182",
+      "publisher": "Duke University Press",
+      "container_title": "Critical AI",
+      "volume": "2",
+      "issue": "1",
+      "page": "",
+      "subject": [],
+      "language": "en",
+      "issn": [
+        "2834-703X"
+      ],
+      "isbn": [],
+      "references_count": 19,
+      "is_referenced_by_count": 0,
+      "score": 0.0
+    }
+  },
+  {
+    "id": "f2cb0b99-fddf-40cd-ab23-d4e3d1a1f24d",
+    "title": "Regulatory Analogies, LLMs, and Generative AI",
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>With the release of large language models such as GPT-4, the push for regulation of artificial intelligence has accelerated the world over. Proponents of different regulatory strategies argue that AI systems should be regulated like nuclear weapons posing catastrophic risk (especially at the frontiers of technical capability); like consumer products posing a range of risks for the user; like pharmaceuticals requiring a robust prerelease regulatory apparatus; and/or like environmental pollution to which the law responds with a variety of tools. This thinkpiece outlines the shape and limitations of particular analogies proposed for use in the regulation of AI, suggesting that AI law and policy will undoubtedly have to borrow from many precedents without committing to any single one.</jats:p>",
+    "metadata": {
+      "doi": "10.1215/2834703x-11205238",
+      "type": "journal-article",
+      "published": [
+        2024,
+        4,
+        1
+      ],
+      "authors": [
+        "Ellen P. Goodman"
+      ],
+      "url": "https://doi.org/10.1215/2834703x-11205238",
+      "publisher": "Duke University Press",
+      "container_title": "Critical AI",
+      "volume": "2",
+      "issue": "1",
+      "page": "",
+      "subject": [],
+      "language": "en",
+      "issn": [
+        "2834-703X"
+      ],
+      "isbn": [],
+      "references_count": 25,
+      "is_referenced_by_count": 0,
+      "score": 0.0
+    }
+  },
+  {
+    "id": "3c62525a-166e-48bf-8ec1-24d8965468f9",
+    "title": "How to Make “AI” Intelligent; or, The Question of Epistemic Equality",
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Critics have identified a set of operational flaws in the machine language and deep learning systems now discussed under the “AI” banner. Five of the most discussed are social biases, particularly racism; opacity, such that users cannot assess how results were generated; coercion, in that architectures, datasets, algorithms, and the like are controlled by designers and platforms rather than users; systemic privacy violations; and the absence of academic freedom covering corporation-based research, such that results can be hyped in accordance with business objectives or suppressed and distorted if not. This article focuses on a sixth problem with AI, which is that the term intelligence misstates the actual status and effects of the technologies in question. To help fill the gap in rigorous uses of “intelligence” in public discussion, it analyzes Brian Cantwell Smith's The Promise of Artificial Intelligence (2019), noting humanities disciplines routinely operate with Smith's demanding notion of “genuine intelligence.” To get this notion into circulation among technologists, the article calls for replacement of the Two Cultures hierarchy codified by C. P. Snow in the 1950s with a system in which humanities scholars participate from the start in the construction and evaluation of “AI” research programs on a basis of epistemic equality between qualitative and quantitative disciplines.</jats:p>",
+    "metadata": {
+      "doi": "10.1215/2834703x-10734076",
+      "type": "journal-article",
+      "published": [
+        2023,
+        10,
+        1
+      ],
+      "authors": [
+        "Christopher Newfield"
+      ],
+      "url": "https://doi.org/10.1215/2834703x-10734076",
+      "publisher": "Duke University Press",
+      "container_title": "Critical AI",
+      "volume": "1",
+      "issue": "1-2",
+      "page": "",
+      "subject": [],
+      "language": "en",
+      "issn": [
+        "2834-703X"
+      ],
+      "isbn": [],
+      "references_count": 26,
+      "is_referenced_by_count": 0,
+      "score": 0.0
+    }
+  },
+  {
+    "id": "2bc10d7b-5775-45ad-8c26-73f69ba77501",
+    "title": "<i>Technology of the Oppressed: Inequity and the Digital Mundane in Favelas in Brazil</i>, by David Nemer",
+    "abstract": "",
+    "metadata": {
+      "doi": "10.1215/2834703x-10734116",
+      "type": "journal-article",
+      "published": [
+        2023,
+        10,
+        1
+      ],
+      "authors": [
+        "France Winddance Twine"
+      ],
+      "url": "https://doi.org/10.1215/2834703x-10734116",
+      "publisher": "Duke University Press",
+      "container_title": "Critical AI",
+      "volume": "1",
+      "issue": "1-2",
+      "page": "",
+      "subject": [],
+      "language": "en",
+      "issn": [
+        "2834-703X"
+      ],
+      "isbn": [],
+      "references_count": 3,
+      "is_referenced_by_count": 0,
+      "score": 0.0
+    }
+  },
+  {
+    "id": "d96231a4-2469-4f71-a68f-0429c7bd94cd",
+    "title": "Restaging the Black Box: How Metaphor Informs Large Language Models",
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Literary theorists have long examined the role between writing and technology, in part due to technology's reliance on metaphor. Metaphor is central to the ways new technologies are marketed to and understood by users; metaphor also determines the sorts of critiques of those technologies scholars might make. This article looks at the particular relationship between metaphor and LLMs. Specifically, it examines the metaphor of the black box, which is often used to metaphorize their opaque inner workings. Exploring the multiple definitions of the black box metaphor reveals how its use in regard to LLMs reproduces the power imbalances inherent in opaque systems. By considering the many meanings of the black box together, we may see how the term maintains false binaries of transparency and opacity. As one example, this article argues that refiguring the (algorithmic) black box as a black box theater repositions LLMs as a reflexively performative space. Literary critique of this interdisciplinary kind deepens the understanding of LLMs and their ethical implications.</jats:p>",
+    "metadata": {
+      "doi": "10.1215/2834703x-11205196",
+      "type": "journal-article",
+      "published": [
+        2024,
+        4,
+        1
+      ],
+      "authors": [
+        "Nia Judelson",
+        "Maggie Dryden"
+      ],
+      "url": "https://doi.org/10.1215/2834703x-11205196",
+      "publisher": "Duke University Press",
+      "container_title": "Critical AI",
+      "volume": "2",
+      "issue": "1",
+      "page": "",
+      "subject": [],
+      "language": "en",
+      "issn": [
+        "2834-703X"
+      ],
+      "isbn": [],
+      "references_count": 32,
+      "is_referenced_by_count": 0,
+      "score": 0.0
+    }
+  },
+  {
+    "id": "7bf6afb9-fe29-45bb-a545-075a62ce10e8",
+    "title": "The Fumes of AI",
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>With the emergence of generative artificial intelligence (GenAI), it is increasingly clear that the environmental impacts of these technologies are significant, and worth exposing to the public. This article discusses the environmental impacts of generative artificial intelligence and the political underpinnings of extractivist technologies such as cloud companies. It highlights the centralized system of power that demands subservience to its foundational values despite being touted as the most environmentally friendly cloud infrastructure globally.</jats:p>",
+    "metadata": {
+      "doi": "10.1215/2834703x-11205231",
+      "type": "journal-article",
+      "published": [
+        2024,
+        4,
+        1
+      ],
+      "authors": [
+        "Mél Hogan"
+      ],
+      "url": "https://doi.org/10.1215/2834703x-11205231",
+      "publisher": "Duke University Press",
+      "container_title": "Critical AI",
+      "volume": "2",
+      "issue": "1",
+      "page": "",
+      "subject": [],
+      "language": "en",
+      "issn": [
+        "2834-703X"
+      ],
+      "isbn": [],
+      "references_count": 21,
+      "is_referenced_by_count": 0,
+      "score": 0.0
+    }
+  },
+  {
+    "id": "40dc2ee4-6b41-4776-a2a9-b5b39ec90553",
+    "title": "LLM Outputs Are Fictions",
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>The development of large language model (LLM) tools presents both benefits and challenges. One issue is the expectation of reliable information from users, particularly students. The tool's use conditions and expectations influence its effectiveness. The concept of fictional truth negotiates relations that hold between the real world and the world of fiction and is therefore useful for understanding LLM outputs that rely on and contain facts even as they also contain false or invented information.</jats:p>",
+    "metadata": {
+      "doi": "10.1215/2834703x-11205210",
+      "type": "journal-article",
+      "published": [
+        2024,
+        4,
+        1
+      ],
+      "authors": [
+        "Aaron R. Hanlon"
+      ],
+      "url": "https://doi.org/10.1215/2834703x-11205210",
+      "publisher": "Duke University Press",
+      "container_title": "Critical AI",
+      "volume": "2",
+      "issue": "1",
+      "page": "",
+      "subject": [],
+      "language": "en",
+      "issn": [
+        "2834-703X"
+      ],
+      "isbn": [],
+      "references_count": 9,
+      "is_referenced_by_count": 0,
+      "score": 0.0
+    }
+  }
+]
