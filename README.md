@@ -2,7 +2,7 @@
 
 VibeSearch is a vibe-y search engine for academic articles. It enables you to search using vector search, as well as as 'traditional' and keyword-based search. The idea is that it works only in some journals from the New Media field (list below). It's a prototype.
 
-VibeCollector allows to generate your own database for a local VibeSearch installation.
+VibeCollector allows to generate your own database for a local [VibeSearch installation](https://github.com/gabrielopereira/VibeSearch).
 
 ## What's This? 🤔
 
