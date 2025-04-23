@@ -28,7 +28,8 @@
       "isbn": [],
       "references_count": 67,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -64,7 +65,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 1,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -97,7 +99,8 @@
       "isbn": [],
       "references_count": 70,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -129,7 +132,8 @@
       "isbn": [],
       "references_count": 20,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -163,7 +167,8 @@
       "isbn": [],
       "references_count": 78,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -196,7 +201,8 @@
       "isbn": [],
       "references_count": 66,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -228,7 +234,8 @@
       "isbn": [],
       "references_count": 72,
       "is_referenced_by_count": 3,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -260,7 +267,8 @@
       "isbn": [],
       "references_count": 21,
       "is_referenced_by_count": 1,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -302,7 +310,8 @@
       "isbn": [],
       "references_count": 85,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -334,7 +343,8 @@
       "isbn": [],
       "references_count": 7,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -367,7 +377,8 @@
       "isbn": [],
       "references_count": 42,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -399,7 +410,8 @@
       "isbn": [],
       "references_count": 34,
       "is_referenced_by_count": 5,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -432,7 +444,8 @@
       "isbn": [],
       "references_count": 52,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -465,7 +478,8 @@
       "isbn": [],
       "references_count": 53,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -497,7 +511,8 @@
       "isbn": [],
       "references_count": 15,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -530,7 +545,8 @@
       "isbn": [],
       "references_count": 81,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -562,13 +578,14 @@
       "isbn": [],
       "references_count": 75,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
     "id": "7c52678e-4ad9-46c6-8d91-a574d2ab0546",
     "title": "Governing platforms and societies",
-    "abstract": "",
+    "abstract": "When we (my co-authors Thomas Poell and Martijn de Waal) published The Platform Society. Public Values in a Connective World in 2018, the field of “platform studies” had just started to emerge. In our book, we tried to explain how platformization had started to affect entire sectors, exemplified by the news industry, urban transport, health care, and education. In the epilogue, we argued that “governing platform societies” requires not just a cross-sectoral approach but calls more profoundly for a transnational discourse of governance issues. Since 2018, we have seen a distinct rise in challenges concerning platforms and societies: the growing impact of Big Tech platforms on digital ecosystems around the globe; the rise of two “superpower” ecosystems which are in many ways interwoven with geopolitical forces; the mounting dependence of state and civil society actors on large digital infrastructures owned and operated by Big Tech; and the lasting impact of platformization not just on labor and business management, but on democratic processes and institutions.",
     "metadata": {
       "doi": "10.1177/29768624241255922",
       "type": "journal-article",
@@ -594,7 +611,8 @@
       "isbn": [],
       "references_count": 3,
       "is_referenced_by_count": 1,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -626,7 +644,8 @@
       "isbn": [],
       "references_count": 7,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -658,7 +677,8 @@
       "isbn": [],
       "references_count": 150,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -691,7 +711,8 @@
       "isbn": [],
       "references_count": 113,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -723,7 +744,8 @@
       "isbn": [],
       "references_count": 68,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -755,7 +777,8 @@
       "isbn": [],
       "references_count": 34,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -787,7 +810,8 @@
       "isbn": [],
       "references_count": 57,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -819,7 +843,8 @@
       "isbn": [],
       "references_count": 69,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -851,7 +876,8 @@
       "isbn": [],
       "references_count": 95,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -884,7 +910,8 @@
       "isbn": [],
       "references_count": 90,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -916,7 +943,8 @@
       "isbn": [],
       "references_count": 49,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -948,7 +976,8 @@
       "isbn": [],
       "references_count": 44,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -981,7 +1010,8 @@
       "isbn": [],
       "references_count": 62,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   }
 ]

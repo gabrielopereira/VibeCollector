@@ -2,3 +2,5 @@ flask
 chromadb
 requests
 sentence-transformers
+typing-extensions
+python-dotenv

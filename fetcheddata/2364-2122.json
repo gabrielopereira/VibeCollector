@@ -29,7 +29,8 @@
       "isbn": [],
       "references_count": 4,
       "is_referenced_by_count": 2,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -62,7 +63,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -96,7 +98,8 @@
       "isbn": [],
       "references_count": 6,
       "is_referenced_by_count": 5,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -129,7 +132,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -163,7 +167,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -194,7 +199,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -227,7 +233,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -258,7 +265,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -289,7 +297,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -323,7 +332,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 1,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -356,7 +366,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -389,7 +400,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 3,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -424,7 +436,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -457,7 +470,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -491,7 +505,8 @@
       "isbn": [],
       "references_count": 4,
       "is_referenced_by_count": 1,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -522,7 +537,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -555,7 +571,8 @@
       "isbn": [],
       "references_count": 9,
       "is_referenced_by_count": 4,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -588,7 +605,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -619,7 +637,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -653,7 +672,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -686,7 +706,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 1,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -717,7 +738,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -750,7 +772,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -783,13 +806,14 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 1,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
     "id": "71f530c5-4c21-421a-8d36-460e7b278807",
     "title": "Enabling Multiple Voices in the Museum: Challenges and Approaches",
-    "abstract": "",
+    "abstract": "project",
     "metadata": {
       "doi": "10.14361/dcs-2020-0213",
       "type": "journal-article",
@@ -825,7 +849,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 4,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -859,13 +884,14 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 3,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
     "id": "dcad592a-e789-4bba-94c9-144805738096",
     "title": "Introduction. Making and Hacking",
-    "abstract": "",
+    "abstract": "In August 2014, hackerspaces in the Netherlands issued an open letter to the Dutch Public Prosecution Service (PPS): in this document, members of hacker communities from Amsterdam, Heerlen, Utrecht and other cities called upon the governmental institution to revise the definition of ‘hacking’ as presented on its website (Walboer et al. 2014). While the PPS described it as “breaking into computers without permission”, the hackerspace members highlighted that hacking refers to citizens’ creative engagement with technologies. Opposing the reduction of hacking to illegal activities, they described hacking as exploration of technological possibilities and boundaries in unforeseen, innovative ways. Even though this particular initiative was started in the Netherlands, the letter echoes wider, historical as well as ongoing negotiations regarding the meanings and origins of hacking. It seems closely related to earlier requests such as an open letter to the Wall Street Journal which was written more than 20 years ago by Richard Stallman (presumably). In this letter, the founder of the Free Software Foundation states:",
     "metadata": {
       "doi": "10.14361/dcs-2017-0102",
       "type": "journal-article",
@@ -893,13 +919,14 @@
       "isbn": [],
       "references_count": 9,
       "is_referenced_by_count": 6,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
     "id": "c5af7a8c-428d-4727-a275-1acc131dd559",
     "title": "A Geology Of Media And A New Materialism",
-    "abstract": "",
+    "abstract": "Jussi Parikka’s research focuses on interrelations between technological culture, ecology and media aesthetics. He has published widely on media archaeology and material media cultures. In 2015, he published A Geology of Media which explores media studies as study of material (metallic, mineral, chemical) components. Bridging between the natural sciences, arts and environmental ethics, the media theorist explores analytic approaches which show how natural resources enable media and how media impact the earth’s ecosystem. His latest publication highlights the relevance and agency of the nonorganic as element in contemporary art, media studies and humanities. At the same time, it initiates a debate on the geophysical affordances of digital media. The email conversation with Jussi addresses core concepts and approaches suggested in A Geology of Media, and their implications for media studies and the humanities.",
     "metadata": {
       "doi": "10.14361/dcs-2015-0113",
       "type": "journal-article",
@@ -924,7 +951,8 @@
       "isbn": [],
       "references_count": 2,
       "is_referenced_by_count": 2,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -957,7 +985,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -990,7 +1019,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -1024,13 +1054,14 @@
       "isbn": [],
       "references_count": 9,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
     "id": "8e93d827-0e12-49b1-8faf-7527a1f17da5",
     "title": "Quantified Faces",
-    "abstract": "",
+    "abstract": "The article presents three contemporary art projects that, in various ways, thematise questions regarding numerical representation of the human face in relation to the identification of faces, for example through the use of biometric video analysis software, or DNA technology. The Dutch artist Marnix de Nijs’ Physiognomic Scrutinizer is an interactive installation whereby the viewer’s face is scanned and identified with historical figures. The American artist Zach Blas’ project Fag Face Mask consists of three-dimensional portraits that blend biometric facial data from 30 gay men’s faces and critically examine bias in surveillance technologies, as well as scientific investigations, regarding the stereotyping mode of the human gaze. The American artist Heather Dewey-Hagborg creates three-dimensional portraits of persons she has “identified” from their garbage. Her project from 2013 entitled Stranger Visions involves extracting DNA from discarded items she finds in public spaces in New York City, such as cigarette butts and chewing gum. She has the DNA that is extracted from these items analysed for specific genomic sequences associated with physical traits such as hair and eye colour. The three works are analysed with perspectives to historical physiognomy and Francis Galton’s composite portraits from the 1800s. It is argued that, rather than being a statistical compression like the historical composites, contemporary statistical visual portraits (composites) are irreversible and complicated amalgams. The article furthermore examines questions regarding the agency of the technologies used by the artists.",
     "metadata": {
       "doi": "10.14361/dcs-2016-0113",
       "type": "journal-article",
@@ -1057,13 +1088,14 @@
       "isbn": [],
       "references_count": 7,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
     "id": "a57a2ae7-7440-41d5-9872-9b20ca66ac28",
     "title": "Total Affect Control",
-    "abstract": "",
+    "abstract": "Through the emergence of affectand psychotechnologies, especially with the advent of affective computing, the recognition, regulation and production of affects have been automatised to an unforeseeable degree. The roots of this algorithmic automation can be seen in the propagation of cybernetic models in the field of psychology from the 1950s onwards. A direct genealogical line leads from Silvan Tomkins’ affect system via Paul Ekman’s facial emotion recognition to Rosalind Picard’s conception and co-development of affectsensitive computer systems. Nevertheless, the implicated aspects of surveillance and collection of affective information have yet to be assessed critically. Such an assessment is outlined here. The Tip of the Iceberg of Digital Control: Affective Computing As discussed in many recent publications, the regulation of affects and emotions is dependent on historical, cultural, socio-political and not least media-technological developments.1 How affects and emotions are coded and expressed, whether they are fostered and actively supported or whether they are ignored or even denied, depends on a wealth of factors that are dealt with individually by many scholars in the fields of history and cultural studies.2 Today, however, a fundamental shift is taking place in the conditions of media technology (a shift whose socio-political impact is still entirely unclear) as affectivity is technicised 1 See for example: Angerer/Bösel/Ott (2014); Goldberg (2012); Wetherell (2012);",
     "metadata": {
       "doi": "10.14361/dcs-2016-0104",
       "type": "journal-article",
@@ -1091,7 +1123,8 @@
       "isbn": [],
       "references_count": 5,
       "is_referenced_by_count": 3,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -1122,7 +1155,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -1153,7 +1187,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -1186,7 +1221,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -1221,7 +1257,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 3,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -1254,7 +1291,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 4,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -1287,7 +1325,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -1318,7 +1357,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -1349,13 +1389,14 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
     "id": "6789bbc1-e51c-4d4d-8069-74dee24bed78",
     "title": "An Experimental Autoethnography of Mobile Freelancing",
-    "abstract": "",
+    "abstract": "Abstract This piece discusses an experimental ongoing research that began with my experience as an academic freelancer. It focuses on my experience of moving frequently within and between cities under specific work/ life conditions. An autoethnography provides insights not observable in quantitative research designs; and allows for access to embodied experience, along with reflections on emerging topics going beyond the purely personal, namely, mobility, advantage, and (work)place-making. This strategy allowed me to delineate the boundaries of the fieldsite across online and offline settings, including the digital technologies I share with other research participants. Personal maps of geolocalised trajectories overlapped with experiential accounts (photos, audionotes, interviews, and hand-drawn maps) are included. An interpretational thickness emerges from this association of materials. The research process has inspired the development of a smartphone mobile application for documenting such experiences of mobile freelancing, yet to be created with developers, who are, in turn, participants in this research.",
     "metadata": {
       "doi": "10.14361/dcs-2017-0215",
       "type": "journal-article",
@@ -1382,7 +1423,8 @@
       "isbn": [],
       "references_count": 5,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -1413,13 +1455,14 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
     "id": "55e1c983-6aa1-4d65-8597-7483e5b8b34e",
     "title": "Situating Hobby Drone Practices",
-    "abstract": "",
+    "abstract": "Abstract Consumer drones are entering everyday spaces with increasing frequency and impact as more and more hobbyists use the aerial tool for recreational photography and videography. In this article, I seek to expand the common reference to drones as “unmanned aircraft systems” by conceptualising the hobby drone practice more broadly as a heterogeneous, mobile assemblage of virtual and physical practices and human and non-human actors. Drawing on initial ethnographic fieldwork and interviews with drone hobbyists as well as ongoing cyber-ethnographic research on social networking sites, this article gives an overview of how the mobile drone practice needs to be situated alongside people, things, and data in physical and virtual spheres. As drone hobbyists set out to fly their devices at a given time and place, a number of relations reaching across atmospheric (e. g. weather conditions, daylight hours, GPS availability), geographic (e. g. volumetric obstacles), mobile (e. g. flight restrictions, ground traffic), and social (e. g. bystanders) dimensions demand attention. Furthermore, when drone operators share their aerial images online, visual (e. g. live stream) and cyber-social relations (e. g. comments, scrutiny) come into play, which may similarly impact the drone practice in terms of the pilot’s performance. While drone hobbysists appear to be interested in keeping a “low profile” in the physical space, many pilots manage a comparatively “high profile” in the virtual sphere with respect to the sharing of their images. Since the recreational trend brings together elements of convergence, location-awareness, and real-time feedback, I suggest approaching consumer drones as, what Scott McQuire (2016) terms, “geomedia.” Moreover, consumer drones open up different “cybermobilities” (Adey/Bevan 2006) understood as connected movement that flows through and shapes both physical and virtual spaces simultaneously. The way that many drone hobbyists appear to navigate these different environments, sometimes at the same time, has methodological implications for ethnographic research on consumer drones. Ultimately, the assemblage-perspective brings together aviation-related and socio-cultural concerns relevant in the context of consumer drones as digital communication technology and visual production tool.",
     "metadata": {
       "doi": "10.14361/dcs-2017-0212",
       "type": "journal-article",
@@ -1446,7 +1489,8 @@
       "isbn": [],
       "references_count": 1,
       "is_referenced_by_count": 9,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -1481,7 +1525,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -1515,7 +1560,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 5,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -1550,7 +1596,8 @@
       "isbn": [],
       "references_count": 3,
       "is_referenced_by_count": 17,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -1583,13 +1630,14 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 7,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
     "id": "9f565369-a6ff-4fc6-ac1f-f171143eafd0",
     "title": "Urban Data Analytics as Research Topic, Method and Ethical Concern",
-    "abstract": "",
+    "abstract": "Local and global business interests assemble images of neighbourhoods from localised knowledge, including disparate forms of public data such as reviews, blog posts, and open data from municipalities and other organisations. (In)visible forms of working with and worrying about neighbourhood data can be understood as an engagement with the neighbourhood’s reputation, or rather its symbolic trajectory: a set of tangible and intangible indicators through which an urban space is known and treated accordingly over time. This paper addresses ethical concerns that emerge from contemporary datafied urban ethnogra-phy. We consider a combination of large-scale and bespoke, quantitative, and qualitative analyses of available sources with sustained ethnographic engagement with a Dutch neighbourhood coping with a troubled reputation. While the latter activities can mitigate ethical issues stemming from the former, ethnography in turn raises further concerns of exploitation and risk exposure and should not be treated as a kind of ‘ethical panacea’ for big, open, or public data projects. A multifaceted and interrogative approach to data collection may offer a more rounded account of contemporary urban data practices by drawing upon distinct and possibly conflicting accounts of social life. The challenge is to prioritise under-represented and otherwise mar-ginalised voices in both the design and the dissemination of research on urban data analytics.",
     "metadata": {
       "doi": "10.14361/dcs-2021-070215",
       "type": "journal-article",
@@ -1618,7 +1666,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -1651,7 +1700,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -1682,7 +1732,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -1713,7 +1764,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -1747,7 +1799,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -1780,7 +1833,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -1811,7 +1865,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -1842,7 +1897,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -1875,7 +1931,8 @@
       "isbn": [],
       "references_count": 3,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -1906,7 +1963,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -1937,7 +1995,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -1968,13 +2027,14 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
     "id": "ee2bf43e-1783-4e29-96c1-5e687b47e23f",
     "title": "Unhappy? There’s an App for That",
-    "abstract": "",
+    "abstract": "This article analyses happiness apps, a subset of quantified self (QS) applications focused on tracking and improving user subjective well-being or happiness. I examine these apps, the data they track, and the interventions they propose to explore the social, political, and ethical implications of QS practices associated with happiness apps. Despite their focus on science, data, and quantification, happiness apps are ideologically inflected, mediated through the influential research, rhetoric, and pedagogy of positive psychology. Positive psychology as the “science of happiness” applies research in order to maximise well-being globally, and it increasingly leverages technology for this goal. Through a close reading of the claims and functions of these happiness apps, I highlight their assumptions about the happy individual and good society. Happiness apps do not assess emotions objectively via user data; instead, they filter user emotions through positive psychology’s theories of happiness that inform these apps’ conceptions and standards of well-being. This article argues that happiness apps may function conservatively, teaching users to pursue happiness and the good life without recognizing that understandings of happy and good are not universal but inextricably bound to particular ideological assumptions, cultural contexts, and interpretations of what is positive, valuable, and desirable. The practice of tracking and operationalising user data via a happiness app is a complex, mediated practice. The data are mediated by the particular tool as well as users’ individual understandings of and aspirations for happiness, which in turn are mediated by the rhetoric, ideology, and pedagogy of positive psychology. This triple mediation demonstrates that the QS is not neutral but instead embedded within social, cultural, economic, political, and ethical commitments.",
     "metadata": {
       "doi": "10.14361/dcs-2016-0107",
       "type": "journal-article",
@@ -2001,13 +2061,14 @@
       "isbn": [],
       "references_count": 4,
       "is_referenced_by_count": 3,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
     "id": "1857c4c2-9d0c-4aba-abfb-ee9f2687c44c",
     "title": "Introduction. Politics of Big Data",
-    "abstract": "",
+    "abstract": "This special issue offers a critical dialogue around the myriad political dimensions of Big Data. We begin by recognising that the technological objects of Big Data are unprecedented in the speed, scope and scale of their computation and knowledge production. This critical dialogue is grounded in an equal recognition of continuities around Big Data’s social, cultural, and political economic dimensions.",
     "metadata": {
       "doi": "10.14361/dcs-2016-0202",
       "type": "journal-article",
@@ -2036,7 +2097,8 @@
       "isbn": [],
       "references_count": 17,
       "is_referenced_by_count": 6,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -2070,7 +2132,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -2101,7 +2164,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -2134,7 +2198,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -2165,7 +2230,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -2196,7 +2262,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -2229,7 +2296,8 @@
       "isbn": [],
       "references_count": 2,
       "is_referenced_by_count": 4,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -2262,7 +2330,8 @@
       "isbn": [],
       "references_count": 6,
       "is_referenced_by_count": 2,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -2295,7 +2364,8 @@
       "isbn": [],
       "references_count": 1,
       "is_referenced_by_count": 4,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -2329,7 +2399,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 6,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -2362,7 +2433,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 9,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -2395,7 +2467,8 @@
       "isbn": [],
       "references_count": 1,
       "is_referenced_by_count": 2,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -2430,13 +2503,14 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 8,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
     "id": "2960b85d-2568-4a90-aba9-96608e2fdf9d",
     "title": "Coupling Quantified Bodies",
-    "abstract": "",
+    "abstract": "The main promise behind the idea of self-quantification is to transform our lives through the continuous collection of numerical evidence about the body and its activity. Although this process may help boost self-knowledge, everyday life also involves a complex network of relations with other bodies that exert a significant, sometimes determining, influence on our behaviour. To address this concern, we suggest that self-quantification data can be modulated as perturbations to other human and non-human bodies that, in turn, may directly affect the everyday practices of the self. By coupling quantified bodies, we transform existing practices by disrupting the elements that realise, perform and reproduce existing practices. In order to explore and further understand the affective potential of this idea, we designed a system that creates unfamiliar, digitally enabled couplings between two quantified bodies: a human and a plant. In particular, in this design experiment we modulate walking activity data into perturbations to a quantified plant. How does this coupling transform the way we look at self-quantification? Are we bringing forth a new space of responsibility and ethical concern? What if the plant dies because someone did not walk enough? In this article we discuss the implications of creating such a coupling keeping a critical distance to current forms of self-quantification, which are often focused on change through prescriptive solutions rather than through the fostering of self-determined growth. With this work we aim to expand the current understanding of the affective possibilities of self-quantification in the context of social change.",
     "metadata": {
       "doi": "10.14361/dcs-2016-0114",
       "type": "journal-article",
@@ -2466,7 +2540,8 @@
       "isbn": [],
       "references_count": 6,
       "is_referenced_by_count": 3,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -2499,13 +2574,14 @@
       "isbn": [],
       "references_count": 11,
       "is_referenced_by_count": 8,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
     "id": "3c6b8f4b-ab5c-428a-bb2a-a20e94fe4bbc",
     "title": "How Old am I?",
-    "abstract": "",
+    "abstract": "In previous work we argued that ageing bodies and changes across the life-course were becoming measured, standardised, and treated according to a new logic of functionality, supplanting traditional categories of normality (Katz/Marshall 2004). In particular, the binary between the ‘functional’ and the ‘dysfunctional’ has become a powerful tool in mapping and distributing bodies around datapoints, functional subsystems, and posthuman informatics. In this paper, we extend this line of analysis by exploring how current developments in self-tracking technologies and the proliferation of digital apps are creating new modes and styles of ‘quantified ageing’. In particular, we identify four interrelated fields for inquiry that are specifically relevant in setting out a research agenda on ageing quantified selves and statistical bodies: 1) ‘Wearables’ and mobile technologies, including both technologies designed for selfmonitoring/self-improvement (health, fitness, sleep, mood and so on) and those designed for surveillance of and ‘management’ of ageing individuals by children, caregivers or institutions. 2) Digital apps, including those that collect and connect data uploaded from wearable devices, and those that deploy various algorithms for ‘calculating’ age and its correlates. 3) The rhetorics of games and scores in age-related apps such as those used in digital ‘brain training’ games that track a person’s imagined cognitive plasticity and enhancement, while promising protection against memory loss and even dementia. 4) The political economy of data sharing, aggregation and surveillance of ageing populations. Conclusions ponder wider sociological questions; for example, how will the insurance industry acquire and use data from digital health technologies to produce new actuarial standards? How will older individuals plan their futures according to the risks assembled through quantifying technologies? We argue that the technical turn to new ways of quantifying and standardising measurements of age raises a range of complex and important questions about ageism, agency and",
     "metadata": {
       "doi": "10.14361/dcs-2016-0110",
       "type": "journal-article",
@@ -2533,7 +2609,8 @@
       "isbn": [],
       "references_count": 18,
       "is_referenced_by_count": 33,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -2566,7 +2643,8 @@
       "isbn": [],
       "references_count": 12,
       "is_referenced_by_count": 22,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -2599,7 +2677,8 @@
       "isbn": [],
       "references_count": 19,
       "is_referenced_by_count": 2,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -2632,7 +2711,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 9,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -2666,7 +2746,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -2700,7 +2781,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 1,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -2733,7 +2815,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 1,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -2767,7 +2850,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 1,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -2800,7 +2884,8 @@
       "isbn": [],
       "references_count": 2,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -2831,7 +2916,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -2862,7 +2948,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -2895,7 +2982,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -2929,7 +3017,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 2,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -2962,7 +3051,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 2,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -2996,7 +3086,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 7,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -3032,7 +3123,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 1,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -3063,7 +3155,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -3094,7 +3187,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -3127,7 +3221,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -3158,7 +3253,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -3191,7 +3287,8 @@
       "isbn": [],
       "references_count": 8,
       "is_referenced_by_count": 2,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -3225,7 +3322,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -3258,7 +3356,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -3289,7 +3388,8 @@
       "isbn": [],
       "references_count": 1,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -3323,13 +3423,14 @@
       "isbn": [],
       "references_count": 12,
       "is_referenced_by_count": 8,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
     "id": "044fc40c-106d-4101-b96e-ad85d93787dd",
     "title": "Casual Power",
-    "abstract": "",
+    "abstract": "The paper draws parallels between quantification as found in the user interfaces of video games, to similar elements of more “serious” devices, in particular mapping and navigational platforms. I present an autoethnographic study of a mundane experience that would be familiar to many Google Maps users: locating a nearby place of interest and figuring out how to reach it. The navigational case is used as a canvas for a further analysis of the role of quantified elements in user interfaces. My autoethnography shows how the mundane actions performed on the screen are informed by the necessary reductions that mapped media perform on the physical world. Such reductions are imitated and enabled by user interfaces designed to control and guide user attention. Designers aim to simplify and streamline user interactions with the system and such practices are built on tracking the user and habituating the actions she performs through the screen.",
     "metadata": {
       "doi": "10.14361/dcs-2016-0108",
       "type": "journal-article",
@@ -3356,7 +3457,8 @@
       "isbn": [],
       "references_count": 14,
       "is_referenced_by_count": 2,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -3387,7 +3489,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -3421,7 +3524,8 @@
       "isbn": [],
       "references_count": 1,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -3454,13 +3558,14 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
     "id": "87413da4-0ec3-440d-afc3-a1cb91411c8c",
     "title": "The Business of Gamifying School Work",
-    "abstract": "",
+    "abstract": "If we think about the earliest exposure that we, as individuals, have to schedules, routines, effort, and hard work, most probably it is school-ing—and elementary education in particular—that first comes to mind. Historically, teachers have tried (based on learning theory or their own intuition) to motivate students by making learning fun; however, more recently, many schools have become fascinated by the digital gamification phenomenon. This work explores the diverse perceptions of the role of this digital gamification among teachers and principals in urban schools in a city in the north of Spain trying to answer why, besides the lack of theoretical foundations, gamification software, hand in hand with the companies behind it, is colonizing classrooms. Three in-depth, semi-structured interviews with principals (who also work as regular teachers) were carried out and the information obtained was coded and represented through hierarchical trees. Then, the data provided by each respondent was compared. Principal’s perceptions range from the enthusiasm of having easy access to these “free” tools, to more critical opinions on their use— from both a political and pedagogical perspective.",
     "metadata": {
       "doi": "10.14361/dcs-2021-0109",
       "type": "journal-article",
@@ -3488,7 +3593,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -3521,7 +3627,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -3554,7 +3661,8 @@
       "isbn": [],
       "references_count": 6,
       "is_referenced_by_count": 4,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -3588,7 +3696,8 @@
       "isbn": [],
       "references_count": 12,
       "is_referenced_by_count": 6,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -3622,7 +3731,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 1,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -3655,7 +3765,8 @@
       "isbn": [],
       "references_count": 1,
       "is_referenced_by_count": 3,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -3689,7 +3800,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -3722,7 +3834,8 @@
       "isbn": [],
       "references_count": 10,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -3755,7 +3868,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 12,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -3789,7 +3903,8 @@
       "isbn": [],
       "references_count": 2,
       "is_referenced_by_count": 3,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -3824,7 +3939,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -3857,7 +3973,8 @@
       "isbn": [],
       "references_count": 2,
       "is_referenced_by_count": 6,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -3890,7 +4007,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 2,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -3924,7 +4042,8 @@
       "isbn": [],
       "references_count": 2,
       "is_referenced_by_count": 14,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -3958,7 +4077,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 2,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -3991,7 +4111,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -4024,7 +4145,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -4058,13 +4180,14 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
     "id": "8b6717d2-3d95-4aa6-b198-c69875797c86",
     "title": "So ‘Hot’ Right Now Reflections on Virality and Sociality from Transnational Digital China",
-    "abstract": "",
+    "abstract": "Abstract A reflection of both the intensity of sharing practices and the appeal of shared content, the term ‘viral’ is often seen as coterminous with the digital media age. In particular, social media and mobile technologies afford users the ability to create and share content that spreads in ‘infectious’ ways. These technologies have caused moral panics in recent years, particularly within heavily regulated and censored media environments such as the People’s Republic of China (PRC). This paper uses the spread of a ‘viral’ sex video among young Chinesespeaking people who live transnational lives between Japan, China, and Taiwan, to reflect upon the question of ‘viral’ media as it is conceptualised more broadly. Their position both inside and outside Sinophone mediascapes affords a useful case study to think beyond purely institutional discussions of Chinese media, and focus on the ways media practices, affects, and affordances shape patterns of content distribution. It examines the language and practices of ‘virality’ among Chinese-speaking people in Tokyo and shows how the appeal of content like the sex video ‘digital stuff’ on WeChat are typically a digital amplification of pre-existing social practice. Described in terms of ‘sociothermic affects’ (Chau 2008) such as ‘fever’ and ‘heat’ (re/huo), the infectious nature of media is imagined in different but commensurate forms of virality that precedes the digital age. In the digital age however, virality is also made scalable (Miller et al. 2016) in new ways.",
     "metadata": {
       "doi": "10.14361/dcs-2017-0206",
       "type": "journal-article",
@@ -4091,7 +4214,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 4,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -4124,7 +4248,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -4157,7 +4282,8 @@
       "isbn": [],
       "references_count": 3,
       "is_referenced_by_count": 3,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -4190,7 +4316,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 5,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -4225,13 +4352,14 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
     "id": "4c727d50-6307-4d17-b096-8cb23fb7f758",
     "title": "Twitter in Place Examining Seoul’s Gwanghwamun Plaza through Social Media Activism",
-    "abstract": "",
+    "abstract": "Abstract In Korea, social networking sites are overwhelmingly utilized through smart phones; people tweet or update Facebook with their mobile devices. Like any social networking site, this means that people are making (and remaking) connections with each other, but it also means that people are connecting in complex ways to place. Even if geo-location is disabled, these social media still have this embodied dimension; they’re not just tweets, but tweets in a particular space and time. In Seoul, embodied practices of social media infuse spaces with diverse and networked meaning that interact (however weakly) with existing spatial systems. In this essay, I explore the diverse meaning of public space in Seoul through an analysis of Twitter traffic surrounding enormous protests in 2016 at Gwanghwamun Plaza calling for the resignation of President Park Geun-hye. People who protested against the President in Gwanghwamun Plaza were not only calling for her resignation, but they are also making strong claims to space that re-define the heterogeneous site as a space of protest. At the same time, they are not the only groups making claims on the plaza: conservative groups, merchants, commuters, tourists and various bots tweet other meanings through their interactions with the protest site, and these, too, add to the networked representation of Gwanghwamun Plaza. Ultimately, the paper suggests a theory of social media in urban settings which emphasizes complex interactions of space, representation, networked action, absence and presence.",
     "metadata": {
       "doi": "10.14361/dcs-2017-0207",
       "type": "journal-article",
@@ -4258,13 +4386,14 @@
       "isbn": [],
       "references_count": 11,
       "is_referenced_by_count": 1,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
     "id": "80f57d02-a6c3-4024-a9fa-8da3909e4715",
     "title": "Mobile Mediated Visualities An Empirical Study of Visual Practices on Instagram",
-    "abstract": "",
+    "abstract": "Abstract The escalation of photo sharing through social networking sites is one of the most substantial changes in mobile communication practice in recent years. The launch of smart mobile technologies represents a decisive moment in the production and observation of visualities with an elevated characteristic of digital shareability and reproducibility. Considering recent technological advancements and new social media services, this paper aims to study how social platforms and smart mobile devices are affecting individuals’ visual, social and digital practices. In particular, this paper examines the social exchange of photographs online in order to advance an in-depth reading of contemporary mobile media. The mobility afforded by smart mobile devices represents a fundamental condition that shapes the human-technology relationship. The paper studies this condition by concentrating on the dynamic mobility of individuals, devices and visual information. Methodologically, the paper employs a case study approach to analyse how Instagram affects individuals’ perception of their mediated lives. Qualitative interviews formed the fieldwork and a sample of 44 Instagram users took part in the study. Visual content analysis of participants’ photo sharing further contributed to the investigation. Findings from the study show that the use of smart mobile devices constitutes the development of new forms of mobile mediated visualities. The mobility and mediation afforded by smart mobile devices seem to establish new practices for producing and sharing images that push individuals to think visually of events, people and surroundings. These practices lead to the visual dataification of social practices and intensify the quantity and variety of visual data shared online. Within this context, the visual hyper-representation of social practices is exemplified by the current trend of giving to everything a visual justification (e. g. foodporn). In its conclusions, the paper offers a conceptual apparatus that can help to understand contemporary social, digital and visual interactions.",
     "metadata": {
       "doi": "10.14361/dcs-2017-0210",
       "type": "journal-article",
@@ -4292,7 +4421,8 @@
       "isbn": [],
       "references_count": 5,
       "is_referenced_by_count": 14,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -4328,7 +4458,8 @@
       "isbn": [],
       "references_count": 1,
       "is_referenced_by_count": 2,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -4359,7 +4490,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -4392,7 +4524,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -4423,7 +4556,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -4457,7 +4591,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -4493,13 +4628,14 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
     "id": "0ebdf88e-a55d-494e-9a3e-d5baf4682422",
     "title": "The Practice of Practice",
-    "abstract": "",
+    "abstract": "This conversation considers some of the disciplinary divides and anxieties surrounding contemporary research on media and mobility through a discussion of linkages between these two research fields and the role of non‐media centric focuses on media across the disciplines. The conversation was sparked by the three‐day workshop, Anthropologies of Media and Mobility: Theorizing Movement and Circulations across Entangled Fields, held in September, 2017 at The University of Cologne.1 One of the co‐ convenors Roger Norum sat down with a trio of leading scholars working on media and mobility, Heather Horst, David Morley, and Noel B. Salazar. They address a number of critical topics such as the nature of binary and category disruption, contextually depen‐ dent forms of media, the value of collaborative scholarship, the roles of methodologies in academic practice and the critical role played by early‐career researchers in pushing various boundaries across our fields.",
     "metadata": {
       "doi": "10.14361/dcs-2017-0216",
       "type": "journal-article",
@@ -4528,13 +4664,14 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
     "id": "85b4f627-0f9e-4182-b431-574440678e1b",
     "title": "‘Re-appropriating’ Facebook? Web API mashups as Collective Cultural Practice",
-    "abstract": "",
+    "abstract": "Abstract In contemporary debates about socio-technical implications of software, the platform metaphor, the corresponding notions of architectures and ecosystems as well as the formatting of data to afford ‘platformization’ play a central role. This approach has certainly proven fruitful to assess the role of companies like Facebook in contemporary society. However, it characteristically overlooks the messiness of actual usage practices and those studies that do acknowledge the internal power struggles that subcutaneously shape platforms often take a top-down perspective, disregarding bottom-up processes of (re-) appropriation. To address this gap, the article outlines a method to study how users and semi-professional developers collectively frame the cultural imaginary of a platform by conducting a thoroughly comparative content analysis of mashups created using the Facebook Web API. The affordances of many individual mashups might be considered marginal; yet, the tool-assistant comparison allows for inferring common patterns of interpretation that characterize mashup creation as a mobile digital practice, which plays a key role in social media platform development.",
     "metadata": {
       "doi": "10.14361/dcs-2017-0211",
       "type": "journal-article",
@@ -4561,13 +4698,14 @@
       "isbn": [],
       "references_count": 10,
       "is_referenced_by_count": 3,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
     "id": "5561c853-2a7c-416c-99af-7df5f316d670",
     "title": "The MicroSDs of Solomon Islands An Offline Remittance Economy of Digital Multi-Media",
-    "abstract": "",
+    "abstract": "Abstract Based on twelve months of multi-sited ethnographic fieldwork, this article investigates the offline circulation of digital media files in Solomon Islands. It explores how circular temporary labour migration drives the acquisition, movement and consumption of digital media, and how these media files contribute to moral controversies. Before the rapid proliferation of mobile phones in 2010, people living in rural environments had limited access to electronic media and the male village elite controlled access to this media, especially foreign movies. Mobile phones, on the other hand, are individually owned and encourage private consumption of media files. At the same time, migrants living in urban areas can easily obtain digital media files and have started integrating them into remittance networks. Access to electronic media in rural areas has exploded. Because foreign visual media are associated with urban, morally ambivalent lifestyles, this proliferation has also fuelled moral uncertainties among rural residents. This article suggests that to understand these moral controversies, and their significance in contemporary Solomon Islands, it is crucial to account for the mobility of digital media files offline and alongside the movements of temporary labourers.",
     "metadata": {
       "doi": "10.14361/dcs-2017-0203",
       "type": "journal-article",
@@ -4594,13 +4732,14 @@
       "isbn": [],
       "references_count": 3,
       "is_referenced_by_count": 15,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
     "id": "e9f66820-c6af-4064-a08c-223ffdfbb44d",
     "title": "Screen Screen Tourism",
-    "abstract": "",
+    "abstract": "Abstract In the article, I discuss new forms of mobility allowed by digital practices, i. e. digital mobilities consisting in visiting geographical places from and through a screen. This discussion is based on my online ethnographic research on international fans of South Korean television series, K-Dramas. The international fandom of K-Dramas, and in a larger sense, South Korean pop cultural products - exemplified by the success of South Korean rapper Psy’s “Gangnam Style” in 2012 -, is a continually growing global phenomenon that has been observed from the end of the 2000s on; a fandom that is mainly constituted through the Internet. However, instead of discussing already thoroughly researched “classic” participatory digital activities of television series fans, as blogging or writing fan fiction, I will focus on still overseen forms of mobility practices engendered by the watching of K-Dramas. My research shows that international fans of K-Dramas are highly mobile - but as much digitally as actually. They do not only travel physically to Korea to visit film locations. They also engage in digital mobilities to Korea through the mediation of desktop web mapping services like Google Maps and their South Korean equivalents, Daum and Naver. This screen screen tourism - as I call it -, then, differs in many ways from screen tourism how it is discussed in previous research on media. In describing and discussing these forms of digital mobility, special attention will be given to two dimensions: (1) the techniques fans use to find film locations, and (2) fans’ “ethno-mapping,” i. e. the methods they have created to map out film locations online.",
     "metadata": {
       "doi": "10.14361/dcs-2017-0208",
       "type": "journal-article",
@@ -4627,13 +4766,14 @@
       "isbn": [],
       "references_count": 4,
       "is_referenced_by_count": 4,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
     "id": "e1858b05-5938-4b3f-99b0-7d3c8b813770",
     "title": "In the Footsteps of Smartphone-Users Traces of a Deferred Community in Ingress and Pokémon Go",
-    "abstract": "",
+    "abstract": "Abstract In this article, the authors carry out conceptual and theoretical reflections on smartphone communities by closely investigating two apps: Ingress (Niantic 2012) and Pokemon Go (Niantic 2016). While the games’ narratives fabricate reasons for the players to move, it is the Smartphone - understood as an open object between technological and cultural processes - that visualizes and tracks players’ movements and that situates and reshapes the devices, the users and their surroundings. A central aspect is that the ‘augmented’ cities that become visible in the apps are based on the traces of others: other processes and technologies, as well as other players. These traces of practices and movements structure the users’ experience and shape spaces. Traces are necessarily subsequent and we therefore develop the concept of a deferred (smartphone) community and analyse its visibility within the apps. By close reading the two case studies, we examine potential “smartphone communities” in their temporal dimensions, as well as their demands and promises of participation. In order to gain a perspective that is neither adverse to new media nor celebratory of assumed participatory community phenomena, the article aims to interrogate the examples regarding their potential for individuation/ dividuation and community building/dissolution. In doing so, the games’ conditions and the impositions placed on the players are central and include notions of consent and dissent. Drawing upon approaches from community philosophy and media theory, we concentrate on the visible aspects smartphone-interfaces. The traces left by the various processes that were at work become momentarily actualized on the display, where they manifest not as a fixed community, but as a sense of communality.",
     "metadata": {
       "doi": "10.14361/dcs-2017-0204",
       "type": "journal-article",
@@ -4664,7 +4804,8 @@
       "isbn": [],
       "references_count": 3,
       "is_referenced_by_count": 4,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -4697,7 +4838,8 @@
       "isbn": [],
       "references_count": 10,
       "is_referenced_by_count": 12,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -4733,7 +4875,8 @@
       "isbn": [],
       "references_count": 4,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -4764,7 +4907,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -4797,13 +4941,14 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
     "id": "a94ca185-4220-4fef-a4b6-b924393fc190",
     "title": "Kind of Blue",
-    "abstract": "",
+    "abstract": "This paper considers emotion recognition and sentiment analysis in relation to social media photographs. It addresses this as part of a larger regime of surveillance and control, in which photographs are treated as symptoms for a diagnosis, and are quantified as data. Automated emotion recognition approaches are capable in principle of analysing the visual qualities of social photos insofar as these can be measured and represented numerically. In reducing the photograph to data, they select out features of the image, as a means to explain or describe a mental state that lies behind or beyond the image. To treat photographs as emotionally expressive goes against the historical idea of the photograph as objective recording. Originally, the idea that photographs could move their viewers was linked to the sense of photography as detached documentation. Today, more and more people take and share photographs as part of a larger shift in emotional culture, which places a therapeutic sense of self at the heart of economy and governance. Yet while people use mobile phone photos as a means of expressive documentation and self-representation, emotion recognition relies on a behaviourist and positivist model that is indifferent to their intentions and to culture, and which is premised on a myth of total knowledge.",
     "metadata": {
       "doi": "10.14361/dcs-2021-070203",
       "type": "journal-article",
@@ -4830,13 +4975,14 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
     "id": "f845b1e9-3b74-4bb5-b4b9-fe27ca3d35e6",
     "title": "My Quantified Self, my FitBit and I",
-    "abstract": "",
+    "abstract": "The rise of wearable tech, namely devices with sensors measuring the user’s daily activities and habits seems to be suggesting a paradox in the post-Snowden era: On one hand, it is generally accepted that unauthorised use, storage and processing of the user’s private data by the state directly clashes with our fundamental rights for privacy; on the other, the user seems to be keen on self-recording and storing one’s own data by willingly using sensors, enabling him to learn more about one’s habits, general health status or even personality. In the era of wearable tech we seem to be accepting that measuring data is not a privacy infringement but a self-surveillance exercise in a quest to get to know ourselves better, most acute to exercising one’s right to free expression. Yet, how is this addressed in legal terms? The focal point for this paper is to address the nascent phenomenon of users actively partaking in the QS movement by wilfully sharing health related datasets. Part 1 notes the transition from the “right to be let alone” to the right to own one’s data as the underlying rational for QS: is it a form of expression regarding a tradable commodity in a free market or a matter of greater public importance? Part 2 dissects the dilemma in sharing health data for public health and/or research purposes exceeding the strict limits of private sphere. The unfortunate case of Google Health, the unconstitutional purchase of Iceland’s national datasets by deCODE and the mishap of the Care.data are studied to shed light to the many faces of our Quantified Selves: Is the current legislative approach fit for facilitating the QS movement, as a type of self-expression? The paper critically examines self-measurement technologies from a legal perspective and calls for urgent reforms in self-measured data protection.",
     "metadata": {
       "doi": "10.14361/dcs-2016-0109",
       "type": "journal-article",
@@ -4864,7 +5010,8 @@
       "isbn": [],
       "references_count": 18,
       "is_referenced_by_count": 6,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -4895,7 +5042,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -4928,13 +5076,14 @@
       "isbn": [],
       "references_count": 2,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
     "id": "2abc540f-eb88-48f3-a20a-10c74306b943",
     "title": "Title",
-    "abstract": "",
+    "abstract": "1. Biomedical Engineering Research Center, Gachon University, Incheon 21936, Republic of Korea. 2. Department of Neurology, Gil Medical Center, Gachon University College of Medicine, Incheon 21565, Republic of Korea. 3. Neuroscience Research Institute, Gachon University, Incheon 21565, Republic of Korea. 4. Department of Radiological Science, College of Health Science, Gachon University, Incheon 21936, Republic of Korea.",
     "metadata": {
       "doi": "10.14361/dcs-2020-frontmatter0601",
       "type": "journal-article",
@@ -4959,7 +5108,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -4992,7 +5142,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -5023,7 +5174,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -5054,7 +5206,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -5089,7 +5242,8 @@
       "isbn": [],
       "references_count": 13,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -5122,7 +5276,8 @@
       "isbn": [],
       "references_count": 12,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -5158,7 +5313,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 1,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -5189,7 +5345,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -5222,7 +5379,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 1,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -5255,7 +5413,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 1,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -5288,7 +5447,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -5319,7 +5479,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -5352,7 +5513,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -5385,7 +5547,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -5418,7 +5581,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -5453,7 +5617,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 1,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -5487,7 +5652,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 2,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -5520,13 +5686,14 @@
       "isbn": [],
       "references_count": 7,
       "is_referenced_by_count": 6,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
     "id": "10040834-7381-4b87-b997-67039114e62e",
     "title": "Esports and Live Streaming",
-    "abstract": "",
+    "abstract": "T. L. Taylor is professor for Comparative Media Studies at MIT, Boston. Her research focuses on the interrelations between culture and technology in online leisure environments. Her most recent books have explored esports (Raising The Stakes, MIT Press, 2012) and live streaming (Watch Me Play, Princeton, 2018). As a sociologist she investigates these fields from an ethnographic perspective (Taylor 2006) and also reflects in her publications on her methodology (Ethnography and Virtual Worlds, Boellstorff, T./ Nardi, B./Pearce, C./Taylor T. L., Princeton, 2012). T. L. Taylor is not only engaged as researcher in this field but also supporting inclusion and fairness in esports. She is doing so in her function as co-founder and director of research of Anykey, an organization dedicated to esports.",
     "metadata": {
       "doi": "10.14361/dcs-2019-0211",
       "type": "journal-article",
@@ -5554,7 +5721,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 2,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -5588,7 +5756,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 3,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -5622,13 +5791,14 @@
       "isbn": [],
       "references_count": 16,
       "is_referenced_by_count": 141,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
     "id": "7e7bff49-1e45-41bc-8df2-fbc2a544c30b",
     "title": "Games to Live With",
-    "abstract": "",
+    "abstract": "In this paper I offer an alternative way to look at games that require no form of play. The player of these games is only supposed to keep them always up-to-date and running, but no specific action is required. NikeFuel is a significant example of this kind of game. NikeFuel, a technology for the quantification of body movement developed by the sports company Nike, is applied in a series of gadgets. The most popular, Nike+, is a wristband that quantifies the movements of the user and converts them into a NikeFuel score, which can later be visualised on a laptop or mobile phone. The act of moving throughout the day is transformed into a game-like experience, according to the principles of gamification. Gamification and quantified-self technologies have been noted for their performative potential and their capacity to control and inform our bodies (Whitson 2015). From a Foucauldian perspective, quantified-self technologies are attempts to rationalise the practices and movements of living organisms, as forms of biopolitical control (Foucault 2005, Schrape 2014). However, these are also spaces of transformation of the conditions under which the self becomes possible. Through NikeFuel, and other examples that I explore in this paper (Farmville, Cookie Clicker, CarnageHug), the player has to come to terms with games that act as parasites on their own lives. Thus, I argue that Nike+ can also be seen to complicate our thoughts about the contemporary digital technologies that surround us on an everyday basis. In this paper I will argue, possibly counter-intuitively, that gamification and quantified-self technologies are not necessarily tools that we use for a specific purpose; these are technologies we carry around with us and live with. As such, we are transformed by them as much as we transform them. Thus, the problem raised in this paper is about how we can co-habit and be hospitable with these ‘parasites’ (Serres, 1982).",
     "metadata": {
       "doi": "10.14361/dcs-2016-0111",
       "type": "journal-article",
@@ -5655,7 +5825,8 @@
       "isbn": [],
       "references_count": 2,
       "is_referenced_by_count": 4,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -5689,7 +5860,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -5722,7 +5894,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -5755,7 +5928,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -5786,7 +5960,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -5817,7 +5992,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -5850,7 +6026,8 @@
       "isbn": [],
       "references_count": 11,
       "is_referenced_by_count": 8,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -5883,7 +6060,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 3,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -5914,7 +6092,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -5945,7 +6124,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -5976,7 +6156,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -6007,7 +6188,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -6042,7 +6224,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 1,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -6076,7 +6259,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 13,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -6111,7 +6295,8 @@
       "isbn": [],
       "references_count": 15,
       "is_referenced_by_count": 27,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -6145,7 +6330,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -6178,7 +6364,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -6212,7 +6399,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -6243,7 +6431,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -6274,7 +6463,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -6305,13 +6495,14 @@
       "isbn": [],
       "references_count": 1,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
     "id": "cb40ec2b-d402-4937-a210-2076a7ba2832",
     "title": "Theorising the Quantified Self and Posthumanist Agency",
-    "abstract": "",
+    "abstract": "In our paper we will examine the cultural implications of the quantified self technology and analyse how contemporary US-American novels reflect and comment on the qualitative changes of the human condition against the backdrop of an interpretive dominance held by the natural and social sciences as well as the changes effected by quantitative methods. Moreover, we will investigate some historical and cultural continuities of the quantified self within USAmerican culture. We claim that, although the quantified self is a global phenomenon, it has emerged from a model of subjectivity which has been deeply engrained in American culture at least since Benjamin Franklin’s Autobiography (1791) and which emphasises individualism, economic self-optimisation, and a techno-euphoric belief in progress, self-control, and self-possession. In this context, the quantified self can be connected to theoretical discourses of 1) economy-driven subjectivity, 2) posthumanism and 3) knowledge cultures of the information age. Drawing on Gary Shteyngart’s recent novel Super Sad True Love Story (2010), we will map forms and functions of literary engagements with various manifestations of the quantified self in relation to the cross-dependencies between distributed agency, potentials and the limits of knowledge systems, and economic mechanisms. As critical systems of second-order observation, fictional texts reflect on the repercussions of practices related to numerical self-description. At the same time, they constitute epistemological counter models to the relational, modular, and combinatory logic of the database (Manovich 2001; Hayles 1999), by focusing on the qualitative dimension of human experience and thus (re-)inscribing human agency into these “technologies of the self” (Foucault 1984). Theoretical Assumptions Quantified approaches to self-knowledge are not a new phenomenon. Humans have always collected and systematised comprehensive data about the world and about themselves. While the term ‘the quantified self’ is a rather recent coinage, Stefan Danter, Ulfr ied Reichardt and Regina Schober 54 other terms signifying similar concepts have been around for some time such as self-tracking, self-monitoring, self-reporting, personal metrics (Young 2012), and in a more theoretical context, of forms of self-thematisation (Hahn/Schorch 2007). In this light, self-tracking can be traced back to early Protestantism and more specifically to Calvinism, particularly Puritanism, and also several other, earlier forms of observing oneself, such as diaries and journal keeping, autobiographies and personal letters. What becomes immediately clear is that one needs a medium to observe oneself, that is to ‘look at oneself’ from outside, even if the focus is on interiority and private experiences. The beginning of modernity brought about a radical shift to the interior of one’s experience (Taylor 1989) and at the same time a strong shift to externalisation of the self in the sense of relying on a medium. This necessarily implies that all forms of self-monitoring are medium-dependent and consequently at least partially codetermined by the medium or technology. This ‘doubleness’ is constitutive, we want to suggest, to every form of self-tracking. Therefore, if we wish to comprehend contemporary forms of selfconstitution through self-tracking, we have to consider the historically decisive shift to the individual as well as the immense reliance on tools that increasingly defy individual control, as for instance computer-based appliances. The first and most important technology that allowed for and at the same time lead to self-tracking was of course the technology of writing. Only if you have a medium that allows you to externalise and store your thoughts, feelings and experiences, is it possible to begin creating a coherent self and identity, which is always a retroactive construction. What seemed contingent when it happened is presented as necessary and brought into a linear, that is narrative, sequence only afterwards in autobiographical writing. As has often been noted, writing and the rise of the individual as a historical phenomenon are closely linked (Ong 1982). The emergence of the individual as a privileged site of social organisation is also connected to the rise of the bourgeoisie in Western and Southern Europe in early modern times and has to be understood within the context of the Reformation, the invention of the printing press and a shift in the economic as well as political/social structure. The link between economics and individualism is particularly noteworthy, and one significant moment to observe this connection is the fact that autobiography in its modern form and double-entry bookkeeping as ‘genres’ or forms to organise ‘data’ arose at about the same time. The most significant literary example of this nexus is Daniel Defoe’s novel Robinson Crusoe (1719), in which the protagonist keeps track of his experience as well as of his possessions and “investments,” in spite of his isolation on the island. Even while the concept of modernisation has been much criticised and relativised in recent debates, processes of individualisation are certainly part of the Western, European and North Atlantic version of modernisation, now understood as neither necessarily linear nor exclusively Western (Eisenstadt 2000). Particularly the digital revolution as the most recent development in information processing technology has made the accumulation and analysis of massive amounts of data easier and affordable for the individual. Big Data has Theorising the Quantif ied Self and Posthumanist Agency 55 not only enabled the functional evaluation of global economic, ecological, and social statistical correlations, but has also made it possible for the individual to extract relevant predictions from personal data. Although Big Data research has focused primarily on economic and media theoretical descriptions of effects and practical applications of these technologies (Berman 2013; Mayer-Schönberger/ Cukier 2013; Schmarzo 2013; Davenport 2014), there have been few attempts so far to critically reflect on Big Data’s alleged epistemological paradigm shifts from a cultural studies and cultural theory perspective. Klaus Mainzer (2014) portends that Big Data debates must be connected with a “historical foundation” in order to be able to evaluate potentials and limitations of such an epistemology in terms of the history of knowledge. Other critical perspectives on Big Data include a volume of essays entitled Big Data: Analysen zum gesellschaftlichen Wandel von Wissen, Macht und Ökonomie (Reichert 2014), as well as Danah Boyd’s and Kate Crawford’s “Critical Questions for Big Data” (2012) which point at the risks and blind spots of Big Data from a social and media studies perspective, by problematising its technological, methodical, social, and ethical assumptions. A distinctly cultural and literary studies perspective allows for making statements that go beyond the diagnostic and descriptive level in that they reflect social implications, prognoses, and potential behavioural models. In this context, the concept of ‘subjectivity’ becomes a central reference point, as it emphasises the dimension of approaching and experiencing the world as a thinking, acting, and feeling subject. Since forms of subjectivities continually change (e. g. Andreas Reckwitz (2006) views processes of economicisation and aestheticisation as a part of the postmodern subject) an examination of contemporary forms of subjectivity has to account for the increasing global, technological and biomedical developments that shape and frame it. Signalling a specific subject formation and cluster of experiences, the quantified self can thus be understood as a concept of the human which is based on numerical and statistical models. In this context, the quantified self can be connected to theoretical discourses of 1) economy-driven subjectivity, 2) knowledge cultures of the information age, and 3) posthumanism. The quantified self is often examined in relation to economic interests, usability, and financial profit. Related to the notion of ‘possessive individualism’, as already drawn out by John Locke (Macpherson 1962), the quantified self is deeply engrained in US-American self-definition. Against the backdrop of a ‘geopolitics of knowledge’, American concepts of individualism in particular have circulated globally (Curry 1991; Ehrenberg 2012), just as distinctive forms of economic orientation have done (Tocqueville 1835/1840). Thus, there are definite connections between a certain technological drive and belief in the feasibility of self, future, self-control, economic ambition and possession (including selfpossession) and the quantified self. The nexus between a particularly US-American form of neoliberalism (Brown 2003; Harvey 2005) and a subject formation which contains elements of the quantified self is key to understanding globalisation, digitalisation, and the increasing transformability of bodies. Stefan Danter, Ulfr ied Reichardt and Regina Schober 56 The digitalisation of all social fields has rendered quantified conceptions of the self increasingly popular. The rapid spread of mobile technology especially has spurred a growing trend toward personalisation of applications. A concept of knowledge as economic resource in a postindustrial “information age” (Bell 1974) unveils the paradox of quantifying a non-quantifiable entity. On the one hand, digital media demonstrate that (collective) forms of knowledge are neither predictable nor ascribable to individuals (Lévy 1997; Jenkins 2010). On the other hand, they simultaneously suggest a potential of collecting, generating, and accessing knowledge through massive databases. According to Nora Young, contemporary digital culture disembodies and decontextualises and takes one “out of the here and now. It is precisely this disembodied, distracted, digital l",
     "metadata": {
       "doi": "10.14361/dcs-2016-0105",
       "type": "journal-article",
@@ -6340,7 +6531,8 @@
       "isbn": [],
       "references_count": 4,
       "is_referenced_by_count": 3,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -6374,7 +6566,8 @@
       "isbn": [],
       "references_count": 2,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -6407,7 +6600,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 1,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -6438,7 +6632,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -6471,7 +6666,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 2,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -6502,7 +6698,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -6535,7 +6732,8 @@
       "isbn": [],
       "references_count": 17,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -6566,7 +6764,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -6599,7 +6798,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -6632,7 +6832,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -6666,7 +6867,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 1,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -6699,7 +6901,8 @@
       "isbn": [],
       "references_count": 7,
       "is_referenced_by_count": 6,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -6732,7 +6935,8 @@
       "isbn": [],
       "references_count": 10,
       "is_referenced_by_count": 1,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -6766,7 +6970,8 @@
       "isbn": [],
       "references_count": 6,
       "is_referenced_by_count": 4,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -6799,13 +7004,14 @@
       "isbn": [],
       "references_count": 12,
       "is_referenced_by_count": 31,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
     "id": "e7e52074-9f31-4331-8f50-2b847267c9ad",
     "title": "Introduction",
-    "abstract": "",
+    "abstract": ",",
     "metadata": {
       "doi": "10.14361/dcs-2015-0102",
       "type": "journal-article",
@@ -6833,7 +7039,8 @@
       "isbn": [],
       "references_count": 3,
       "is_referenced_by_count": 14,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -6868,7 +7075,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 2,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -6901,7 +7109,8 @@
       "isbn": [],
       "references_count": 4,
       "is_referenced_by_count": 1,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -6934,7 +7143,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -6965,7 +7175,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -7002,7 +7213,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -7033,7 +7245,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -7066,7 +7279,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -7100,7 +7314,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -7131,13 +7346,14 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
     "id": "4598b086-059f-4104-9cfe-a7919520368f",
     "title": "The Inchoate Field of Digital Offline A Reflection on Studying Mobile Media Practices of Digital Subalterns in India",
-    "abstract": "",
+    "abstract": "This article reflects on studying mobile phones as digital technologies, \nwhile much of the scholarly preoccupation thus far has been to study \nthem as communication technologies. Based on the doctoral study on \nsubaltern users and their mobile media digital practices in India, it \ndiscusses some of the theoretical issues and outlines methodological \npossibilities while entering the field. It makes distinction between the \ntheoretical orientations of techno-sociality and sociality of technology, \nand highlights the significance of adopting the latter to study new socialities \nthat are emerging due to human interaction with technology. It \ndiscusses some challenges of doing qualitative research in new media \ncontexts and suggests measures for overcoming them. In this regard, it \nreviews the suitability of virtual ethnography and participant observation \nas methodological approaches to mobile phones. While the \npopular trend has been to resort to technologised tools of data collection \nand processing (even within qualitative research in new media \nand digital technologies) this article suggests and discusses the usefulness \nof a more basic, yet powerful method of long interview to study \nusers and document their practices. It concludes how such a choice \ncan also be regardful of some ethical issues involved in studying user \npractices on mobile phones.",
     "metadata": {
       "doi": "10.14361/dcs-2017-0213",
       "type": "journal-article",
@@ -7164,13 +7380,14 @@
       "isbn": [],
       "references_count": 2,
       "is_referenced_by_count": 2,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
     "id": "30868a6e-ab07-498f-93fd-78418bbdac23",
     "title": "Mad Practices and Mobilities Bringing Voices to Digital Ethnography",
-    "abstract": "",
+    "abstract": "Abstract There is a claim that digital media technologies can give voice to the voiceless (Alper 2017). As Couldry (2008) points out it is now commonplace for people - who have never done so before - to tell, share and exchange stories within, and through digital media. Additionally, the affordances of mobile media technologies allow people to speak, virtually anytime and anywhere, while the new internet based media sees that these processes converge to allow stories, information, ideas and discourses to circulate through communicative spaces, and into the daily lives of people (Sheller/Urry 2006). The purpose of this paper is to discuss a methodological framework that can be used to examine the extent that digital media practices can enable voice. My focus is on people ascribed the status of mental illness - people who have had an enduring history of silencing and oppression (Parr 2008). I propose theories of mobilities, and practice, to critically examine voice in practices related to digital media. In doing this, I advocate for digital ethnographic methods to engage these concepts, and to examine the potential of voice in digital mobile media. Specifically, I outline ethnographic methods involving the use of video (re)enactments of digital practices, and the use of reflective interviews to examine every day routines and movements in and around digital media (Pink 2012). I propose that observing and reflecting on such activities can generate insights into the significance these activities have in giving voice to those who are normally unheard.",
     "metadata": {
       "doi": "10.14361/dcs-2017-0214",
       "type": "journal-article",
@@ -7197,7 +7414,8 @@
       "isbn": [],
       "references_count": 11,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -7230,7 +7448,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -7266,7 +7485,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -7297,13 +7517,14 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
     "id": "9f7c6eec-cefd-4c32-b67d-0de37a6d6736",
     "title": "Bodies, Mood and Excess",
-    "abstract": "",
+    "abstract": "A range of commercial mobile technologies are emerging which use psychophysiological sensors to monitor bodies and behaviour to produce new forms of knowledge about social relationships. In this paper I am concerned with how this kind of relationship-tracking influences intimacy. I am specifically interested in what I call the “technicity of intimacy”, the cultural techniques which emerge through the historically contingent technologisation of intimacy. Based on archival research, I argue that relationship-tracking promises to take up the intensive social labours associated with contemporary intimacy. Yet, the psychophysiological measurements these technologies rely on produce partial and ambiguous indicators of intimate life, gesturing toward an excess of intimate meaning that cannot be interrogated. The self-reflexive concern with this excess drives further tracking experiments and techniques. Yet intimacy remains a continuous mystery, and this problematises the value of self-tracking as a system dedicated to achieving meaningful selfknowledge and completeness.",
     "metadata": {
       "doi": "10.14361/dcs-2016-0106",
       "type": "journal-article",
@@ -7330,7 +7551,8 @@
       "isbn": [],
       "references_count": 1,
       "is_referenced_by_count": 7,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -7363,7 +7585,8 @@
       "isbn": [],
       "references_count": 3,
       "is_referenced_by_count": 5,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -7397,7 +7620,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 2,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -7430,13 +7654,14 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 1,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
     "id": "71f771ff-2b99-4366-931e-9df7e808c4db",
     "title": "From Quantified to Qualified Self",
-    "abstract": "",
+    "abstract": "Quantifying the self is not enough; numbers and statistics must be interpreted, that is, integrated into networks of identity, society, and meaning. The quantified self must become a “qualified” self if body tracking is to have any impact on our lives and society. Data generated by body tracking in all forms are not merely a passive material for interpretation, they do not merely lie around in databases until something from outside makes meaning out of them. Data become information and flow in global networks. Without access to data, individuals must rely on experts and expert systems. Putting body-related data into the hands of those who are directly concerned makes them responsible for doing something with the data, for interpreting and making use of the data. Interpreting the data of body tracking occurs as networking. It breaks out of the constraints of modern subjectivity as well as paternalistic health care structures and occurs by participation, communication, and transparency, that is, by following “network norms.” Personal informatics and body tracking is a performative enactment of the informational self. The informational self is neither the product of technologies of power (Foucault), but of an “ethical” technology of the self. The self becomes a hub and an agent in the digital network society. Body tracking transforms the opaque and passive body of the pre-digital age into the informational self. Networking is the way in which order – personal, social, and ontological – is constructed in the digital age. When Socrates took up the maxim of the Delphic oracle, “know thyself” in order to lead his disciples on the road to wisdom, he could not have known how “personal informatics” would understand this aphorism today. According to the movement’s official Website, personal informatics “is a class of tools that help people collect personally relevant information for the purpose of self-reflection and self-monitoring. These tools help people gain self-knowledge about one’s behaviour, habits, and thoughts.”1 As this broad definition suggests, personal informatics is concerned with any and all digital information that pertains to one’s activities, work, hobbies, finances, family situation, and of course, 1 Cf. http://www.personalinformatics.org/. Andréa Belliger and David J. Kr ieger 26 health, both physical and mental. A more narrow definition focuses primarily on physical and mental health. For this reason, personal informatics are often referred to as “body tracking,” “self-tracking,” “life logging,” and “quantified self.” If Socrates lived today, would he encourage the young men of Athens to wear smart watches that continuously monitor their blood pressure, blood glucose levels, nutrition, temperature, movements, heart rate, sleep rhythms, stress, emotional state, posture, surrounding air quality, and much more? This question is not merely rhetorical. If one accepts the claim of the Quantified Self Movement of “self-knowledge through self-tracking with technology,”2 the road to wisdom leads through a newly accessible land of numbers, charts, graphs, projections, sensors, apps and algorithms. If Socrates met the two “founders” of the Quantified Self Movement, Gary Wolf and Kevin Kelly at the mall, we might suppose he would raise some critical questions about this new form of self-knowledge and attempt to convince his interlocutors that numbers are not enough and that a “quantified” self must go on to become a “qualified” self. Questioning the validity, objectivity, and usefulness of quantification in any area of human life, and above all in the area of medicine and health, is not easy. We Moderns have come to associate knowledge and truth with scientific methods and hard, empirical facts. Modern medicine is based on accurate measurements of many different bodily processes and functions. Health is defined as “the level of functional and/or metabolic efficiency of an organism.”3 This is usually understood to mean a state of well-being free from illness and disease.4 Levels of metabolic efficiency are numerical values obtained by technologies of quantification, technologies that in the past were located in specialised laboratories, hospitals, and doctor’s offices. Advances in sensorics and wearable computing have brought the laboratory to the patient. Measuring metabolic efficiency no longer requires large expensive machines and perhaps weeks to complete. Everybody today can have inexpensive access to accurate medicaland health-related data continuously and everywhere. We know what the results of the laboratory tests are, before we enter the doctor’s office. However, we still go to the doctor. We do this because the meaning of the data depends on understanding medical research and medical science, that is, being a medical expert. Whatever Gary Wolf and Kevin Kelly might say to Socrates, if a doctor walked by and joined in the discussion, he would certainly say that self-knowledge is a matter of science and not philosophy and that the only oracle worth listening to are laboratory results. These are objective facts. Being able to say this with justification, pride, and perhaps a little complacency, is itself the result of a long history of transformations in what “knowledge” means, and in what it means to know one’s self. Just so that Socrates gets it right, and seizing the opportunity to tell Wolf and Kelly what he thinks about so-called e-patients and self-trackers, our doctor might go on to say that not just anybody is qualified for knowledge of the self. He himself went through four hard years of medical school and six 2 Cf. Wikipedia https://en.wikipedia.org/wiki/Quantified_Self. 3 Wikipedia https://en.wikipedia.org/wiki/Health_(disambiguation). 4 Cf. Miriam Webster Dictionary http://www.merriam-webster.com/dictionary/health. From Quantif ied to Qualif ied Self 27 years internship. Knowledge of the self requires a self that is properly qualified and not just properly quantified. Only those who have undergone rigorous training in the scientific method are qualified for self-knowledge. Finally, he might indignantly add, “You, Socrates, you of all people should know this, for it is you who attempted to lead the young men of your time away from mere opinion to rationality and truth!” Foucault has pointed out that the idea of a scientific qualification for selfknowledge is the result of a long and changing history. In the ancient world, knowledge of self was always accompanied, if not preceded, by an “ethical” relation to the self. Together with knowing the self, the ancient tradition recognized also the “care” for oneself, epimelesthai sautou, ‘to take care of yourself,’ or ‘the concern with self.’ “In Greek and Roman texts, the injunction of having to know yourself was always associated with the other principle of having to take care of yourself, and it was that need to care for oneself that brought the Delphic maxim into operation.” (Foucault 1997: 226) The nearness, if not inseparability, of these two ways of relating to the self highlights at least two important ideas that have gone under in the course of Western history. First, there is the insight that knowing oneself and taking care of oneself are inseparable. This means that there is no value free, objective, impartial, and uninvolved knowledge of the self. Knowledge is always guided, structured, conditioned, and entangled in practices that are “ethical” in some way. Second and closely related to the first insight, there is the ancient view of knowing and caring as essentially practical activities of relating to the self. Both self-knowledge and care of the self are that which the ancient Greeks would call techné. Foucault speaks of “technologies of the self” in order to emphasize that it is a matter of practices “which permit individuals to effect by their own means, or with the help of others, a certain number of operations on their own bodies and souls, thought, conduct, and way of being, so as to transform themselves in order to attain a certain state of happiness, purity, wisdom, perfection, or immortality.” (ibid: 225) This explains why the Delphic maxim did not refer to a purely objective knowledge in the modern scientific sense, but linked knowledge of the self to a process of self-qualification and preparedness for the truth. For Plato, caring for the self meant preparing oneself to serve the community in the polis. The ideals of the “good” (kalos) and the “beautiful” (kagathos) were deeply inscribed in what knowing and caring for the self were all about. Only a self that is ethically and practically qualified can achieve self-knowledge. In the course of Western history both the idea that knowing is an “ethical” endeavour and the idea that all such endeavours are practices of self-construction, that is “technologies”, have undergone transformations. Heidegger (1977) pointed out that the original Greek idea of technology (techné) cannot be equated Andréa Belliger and David J. Kr ieger 28 with what we Moderns understand by technology.5 The original meaning of techné was a way of knowing by which something is brought into being not only with regard to how it functions, but also with regard to values such as beauty and goodness. Modern technology on the contrary is defined by functionality alone. A technological artefact today does not have to be beautiful or ethically good. It has to function efficiently, reliably, and quickly. Originally, techné was a making or constructing (poiesis) that was not distinguishable from what artists, poets, philosophers, and politicians do. On the basis of the ancient texts, Foucault, at least in his later work, attempts to revive the ideal of a “technology” of the self that is more than pure functionality, but includes “ethical” and “aesthetic” aspects. A technology of the self only concerned with functionality, efficiency, precision, and quantification are what Foucault (1997) calls “technologies of power, whi",
     "metadata": {
       "doi": "10.14361/dcs-2016-0103",
       "type": "journal-article",
@@ -7464,7 +7689,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 3,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -7495,7 +7721,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -7526,7 +7753,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -7564,7 +7792,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -7597,7 +7826,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -7633,7 +7863,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -7664,7 +7895,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -7697,7 +7929,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -7730,7 +7963,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -7763,7 +7997,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -7797,7 +8032,8 @@
       "isbn": [],
       "references_count": 2,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -7830,7 +8066,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -7864,13 +8101,14 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
     "id": "3da546a3-95f5-4b5b-b28a-ff10eb557e24",
     "title": "“There Simply Is No Unified Hacker Movement.” Why We Should Consider the Plurality of Hacker and Maker Cultures",
-    "abstract": "",
+    "abstract": "Sebastian Kubitschko is a postdoctoral researcher at the Centre for Media, Communication and Information Research (ZeMKI) at the University of Bremen in Germany. His main research fields are political communication, social movements and civil society organisations. In order to address the relevance of new forms of techno-political civic engagement, he has conducted qualitative, empirical research on one of the world’s oldest and largest hacker organisations, the Chaos Computer Club (CCC). Sebastian emphasises the societal and political relevance of hacker organisations: he investigates how initiatives such as the CCC combine their IT and communicative expertise to exert agency in technological developments, public debate and policy making. Conceptually, he is particularly interested in practice theory and how it may be used in media sociological and communication research. His papers have been published in international peer reviewed and open access journals. Together with Anne Kaun, he is the editor of Innovative Methods in Media and Communication Research (2016). For the “Making and Hacking” issue of Digital Culture & Society, Sebastian Kubitschko (SK) discussed insights from his research in an email conversation with the issue editors Annika Richterich and Karin Wenz (EDS).",
     "metadata": {
       "doi": "10.14361/dcs-2017-0112",
       "type": "journal-article",
@@ -7897,13 +8135,14 @@
       "isbn": [],
       "references_count": 6,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
     "id": "044b9243-4027-4a13-b923-20e08023ee71",
     "title": "Quantified Bodies",
-    "abstract": "",
+    "abstract": "Self-trackers are a diffuse and diverse group that quantify their lives. From the ordinary to the extraordinary, intimate and vital happenings that occur on (infra)-empirical planes are cast as legible events. Blood pressure, heartbeat rate, testosterone levels, posture, diet, muscle tension, social activity, geographical position. These are now happenings to be intervened upon and rendered as units of measurement and comparable variables. These measurements may give insight to help rebuild a re-cognition of oneself (Catani 2015), or allow a brooding recall of lost moments (Kalina 2012) – this is the manifest quantified body, a body read and a body written. Yet the quantified body is a veneer, it is the outward appearance of control, awareness and care-for-self: we were cynical subjects (Sloterdijk 1987) long before we were quantified bodies. However, self-tracking intrinsically disassociates from the ubiquitous cynical condition. The cynical self-tracker gropes for independence whilst submitting to a life of mediated self-discovery, it is a renunciation of independent vitality so as to act “as if”, to appear to be whilst never being – to fall short of realising difference. It is argued here that the quantified body allocates us all to be designers – reading and writing in culture. And as such, our actions must be critiqued as a symptom of a design practice, where the condition of subjectivity is at the forefront of value-making in taste, style and fashion. How does the cynic self-track? What is the value of design in the field of new media and digital culture?",
     "metadata": {
       "doi": "10.14361/dcs-2016-0112",
       "type": "journal-article",
@@ -7930,7 +8169,8 @@
       "isbn": [],
       "references_count": 8,
       "is_referenced_by_count": 6,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -7963,7 +8203,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 2,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -7997,7 +8238,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 5,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -8033,7 +8275,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 3,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -8066,7 +8309,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -8099,7 +8343,8 @@
       "isbn": [],
       "references_count": 3,
       "is_referenced_by_count": 3,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -8130,7 +8375,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -8163,7 +8409,8 @@
       "isbn": [],
       "references_count": 28,
       "is_referenced_by_count": 2,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -8198,13 +8445,14 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
     "id": "3c86457d-1329-4212-84c4-ed9326d7d3fb",
     "title": "Audiences, Aesthetics and Affordances Analysing Practices of Visual Communication on Social Media",
-    "abstract": "",
+    "abstract": "Abstract This research investigates how the practices of sharing pictures with specific audiences on social media may be related to aesthetics and affordances. Based on fieldwork (interviews, picture analysis and digital ethnography) with a group of female teenagers in Vienna, Austria, how they visually curate their accounts is mapped and reconstructed. Regarding content and aesthetics, different kinds of pictures are shared using different apps. Snapchat, for example, (for this specific group at the time of the investigation) is the preferred medium for live communication with very close friends using fast, pixelated, “ugly” pictures, while Instagram serves to share polished, conventional, “beautiful” pictures with broader audiences. Based on this case study, three conceptual arguments can be made. First, visual communication is practised in relation to specific social settings or audiences. Social media is part of these practices, and users navigate differences between platforms to manage identities and relationships. Second, the analysis of practices embedded in specific software, therefore, has to be contextualised and related to the structures of these environments. Software co-constructs processes of editing, distribution, sharing and affirmation, and its affordances have to be related to the ways in which users exploit them. Third, as visual communication becomes an intrinsic part of online communication, the exploration of how distinctions between audiences and affordances play out stylistically appears to be of particular interest, which entails calibrated aesthetics; however, this visual layer is seldom investigated closely.",
     "metadata": {
       "doi": "10.14361/dcs-2017-0209",
       "type": "journal-article",
@@ -8231,13 +8479,14 @@
       "isbn": [],
       "references_count": 9,
       "is_referenced_by_count": 34,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
     "id": "0c0b360f-51ca-4d83-8ffd-f3a6cbea71e9",
     "title": "Digital Mediation, Soft Cabs, and Spatial Labour",
-    "abstract": "",
+    "abstract": "Abstract Critics of digitally mediated labour platforms (often called the “sharing” or “gig economy”) have focused on the character and extent of the control exerted by these platforms over both workers and customers, and in particular on the precarizing impact on the workers on whose labor the services depend. Less attention has been paid to the specifically spatial character of the forms of work targeted by mobile digital platforms. The production and maintenance of urban social space has always been dependent, to a large degree, on work that involves the crossing of spatial boundaries - particularly between public and private spaces, but also crossing spaces segregated by class, race, and gender. Delivery workers, cabdrivers, day labourers, home care providers, and similar boundary-crossers all perform spatial work: the work of moving between and connecting spaces physically, experientially, and through representation. Spatial work contributes to the production and reproduction of social space; it is also productive of three specific, though interrelated, products: physical movement from one place to another; the experience of this movement; and the articulation of these places, experiences, and movements with visions of society and of the social. Significantly, it is precisely such spatial work, and its products, which mobile digital platforms seek most urgently to transform. Drawing on several recent studies of “ridesharing” (or soft cab) labour platforms, I interrogate the impact of digital mediation on the actual practices involved in spatial work. I argue that the roll-out of digital labour platforms needs to be understood in terms of a struggle over the production of social space.",
     "metadata": {
       "doi": "10.14361/dcs-2017-0205",
       "type": "journal-article",
@@ -8264,7 +8513,8 @@
       "isbn": [],
       "references_count": 14,
       "is_referenced_by_count": 2,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "yes"
     }
   },
   {
@@ -8297,7 +8547,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -8331,7 +8582,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   },
   {
@@ -8362,7 +8614,8 @@
       "isbn": [],
       "references_count": 0,
       "is_referenced_by_count": 0,
-      "score": 0.0
+      "score": 0.0,
+      "abstract_available": "not available"
     }
   }
 ]

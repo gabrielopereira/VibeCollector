@@ -3,6 +3,8 @@ import os
 import chromadb
 from chromadb.utils import embedding_functions
 from typing import List, Dict
+import time
+
 
 class ChromaGenerator:
     def __init__(self, data_dir: str = "fetcheddata"):
@@ -26,7 +28,8 @@ class ChromaGenerator:
         
         print("Setting up embedding function...")
         self.embedding_function = embedding_functions.SentenceTransformerEmbeddingFunction(
-            model_name="all-MiniLM-L6-v2"
+            model_name="Snowflake/snowflake-arctic-embed-s",
+            device="mps"
         )
         
         # Delete existing collection if it exists
@@ -126,6 +129,7 @@ class ChromaGenerator:
         """Process papers and add them to the ChromaDB collection"""
         print("\nStarting to process papers...")
         processed_count = 0
+        start_time = time.time()
         
         for i, paper in enumerate(papers, 1):
             try:
@@ -159,7 +163,8 @@ class ChromaGenerator:
                     "type": paper.get("metadata", {}).get("type", "") or "",
                     "language": paper.get("metadata", {}).get("language", "") or "",
                     "references_count": str(paper.get("metadata", {}).get("references_count", 0)),
-                    "is_referenced_by_count": str(paper.get("metadata", {}).get("is_referenced_by_count", 0))
+                    "is_referenced_by_count": str(paper.get("metadata", {}).get("is_referenced_by_count", 0)),
+                    "abstract_available": paper.get("metadata", {}).get("abstract_available", "no")
                 }
                 
                 # Add the document to the collection
@@ -171,14 +176,24 @@ class ChromaGenerator:
                 processed_count += 1
                 
                 if i % 100 == 0:
-                    print(f"Processed {i} papers...")
+                    elapsed_time = time.time() - start_time
+                    papers_per_second = i / elapsed_time
+                    remaining_papers = len(papers) - i
+                    estimated_remaining_time = remaining_papers / papers_per_second
+                    
+                    print(f"Processed {i}/{len(papers)} papers...")
+                    print(f"Processing speed: {papers_per_second:.2f} papers/second")
+                    print(f"Estimated time remaining: {estimated_remaining_time/60:.1f} minutes")
                     
             except Exception as e:
                 print(f"Error processing paper {i}: {str(e)}")
                 print(f"Paper ID: {paper.get('id', 'unknown')}, Title: {paper.get('title', 'unknown')}")
                 continue
         
+        total_time = time.time() - start_time
         print(f"\nSuccessfully processed {processed_count} out of {len(papers)} papers")
+        print(f"Total processing time: {total_time/60:.1f} minutes")
+        print(f"Average speed: {processed_count/total_time:.2f} papers/second")
 
     def generate(self):
         """Main method to generate the ChromaDB collection"""

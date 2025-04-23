@@ -9,6 +9,7 @@ import requests
 from time import sleep
 from datetime import datetime
 import socket
+import time
 
 app = Flask(__name__)
 
@@ -21,16 +22,45 @@ class SemanticScholarClient:
     def __init__(self, api_key: str = None):
         """Initialize with optional API key for higher rate limits"""
         self.headers = {"x-api-key": api_key} if api_key else {}
+        # Rate limit: 100 requests per 5 minutes (300 seconds)
+        self.rate_limit = 100
+        self.time_window = 300  # 5 minutes in seconds
+        self.requests = []
+    
+    def _wait_if_needed(self):
+        """Implement token bucket algorithm for rate limiting"""
+        current_time = time.time()
+        
+        # Remove requests older than the time window
+        self.requests = [req_time for req_time in self.requests 
+                        if current_time - req_time < self.time_window]
+        
+        # If we've hit the rate limit, wait until the oldest request expires
+        if len(self.requests) >= self.rate_limit:
+            sleep_time = self.requests[0] + self.time_window - current_time
+            if sleep_time > 0:
+                print(f"Rate limit reached. Waiting {sleep_time:.1f} seconds...")
+                sleep(sleep_time)
+        
+        # Add current request
+        self.requests.append(current_time)
     
     def get_paper_details(self, doi: str) -> dict:
         """Fetch paper details including abstract from Semantic Scholar"""
         try:
             # Use DOI to fetch paper details
             url = f"{self.BASE_URL}/DOI:{doi}"
+            
+            # Wait if needed to respect rate limit
+            self._wait_if_needed()
+            
             response = requests.get(url, headers=self.headers)
             
-            # Rate limiting - be nice to the API
-            sleep(1)  # Wait 1 second between requests
+            # Check for rate limit errors
+            if response.status_code == 429:  # Too Many Requests
+                raise Exception("Rate limit exceeded. Please wait before making more requests.")
+            elif response.status_code == 403:  # Forbidden
+                raise Exception("Access forbidden. Possible rate limit or API key issue.")
             
             if response.status_code == 200:
                 return response.json()
@@ -38,9 +68,9 @@ class SemanticScholarClient:
                 print(f"Failed to fetch abstract for DOI {doi}: {response.status_code}")
                 return None
                 
-        except Exception as e:
+        except requests.exceptions.RequestException as e:
             print(f"Error fetching abstract for DOI {doi}: {str(e)}")
-            return None
+            raise  # Re-raise the exception to handle it in the calling code
 
 def enrich_with_abstracts():
     """Enrich JSON files with abstracts from Semantic Scholar"""
@@ -66,75 +96,78 @@ def enrich_with_abstracts():
     for filename in json_files:
         file_path = os.path.join(data_dir, filename)
         print(f"\nProcessing file: {filename}")
+        
         try:
             with open(file_path, 'r', encoding='utf-8') as f:
                 papers = json.load(f)
-                if not isinstance(papers, list):
-                    papers = [papers]
                 
-                stats["total_papers"] += len(papers)
-                papers_with_abstracts = sum(1 for p in papers if p.get("abstract"))
-                stats["papers_with_abstracts"] += papers_with_abstracts
+            stats["total_papers"] += len(papers)
+            
+            # First, mark papers that already have abstracts
+            abstract_stats = {"yes": 0, "no": 0, "not available": 0}
+            
+            for paper in papers:
+                if paper.get("abstract"):
+                    paper["metadata"]["abstract_available"] = "yes"
+                    stats["papers_with_abstracts"] += 1
+                    abstract_stats["yes"] += 1
+                elif paper.get("metadata", {}).get("abstract_available") == "not available":
+                    abstract_stats["not available"] += 1
+                else:
+                    abstract_stats["no"] += 1
+            
+            print("\nInitial abstract availability status:")
+            print(f"✓ Papers with abstracts: {abstract_stats['yes']}")
+            print(f"✗ Papers without abstracts: {abstract_stats['no']}")
+            print(f"⚠ Papers marked as not available: {abstract_stats['not available']}")
+            
+            # Then process papers without abstracts that haven't been marked as not available
+            papers_to_process = [p for p in papers if not p.get("abstract") and 
+                               p.get("metadata", {}).get("abstract_available") != "not available"]
+            
+            if not papers_to_process:
+                print("No papers need abstract enrichment")
+                # Save the updated metadata for papers that already had abstracts
+                with open(file_path, 'w', encoding='utf-8') as f:
+                    json.dump(papers, f, indent=2, ensure_ascii=False)
+                continue
                 
-                print(f"Found {len(papers)} papers in file")
-                print(f"Papers with existing abstracts: {papers_with_abstracts}")
-                
-                # Process papers without abstracts
-                papers_to_process = [p for p in papers if not p.get("abstract")]
-                print(f"Attempting to fetch abstracts for {len(papers_to_process)} papers")
-                
-                for i, paper in enumerate(papers_to_process, 1):
-                    # Check if paper already has an abstract
-                    if paper.get("abstract"):
-                        print(f"\nPaper {i}/{len(papers_to_process)} already has an abstract, skipping")
-                        continue
-                        
-                    doi = paper.get("metadata", {}).get("doi")
-                    if doi:
-                        print(f"\nProcessing paper {i}/{len(papers_to_process)}")
-                        print(f"DOI: {doi}")
-                        
-                        try:
-                            semantic_paper = semantic_scholar.get_paper_details(doi)
-                            
-                            if semantic_paper and semantic_paper.get("abstract"):
-                                paper["abstract"] = semantic_paper["abstract"]
-                                stats["new_abstracts_added"] += 1
-                                print("✓ Successfully added abstract")
-                                
-                                # Save after each successful abstract addition
-                                with open(file_path, 'w', encoding='utf-8') as f:
-                                    json.dump(papers, f, indent=2, ensure_ascii=False)
-                                print("✓ Saved progress to file")
-                            else:
-                                print("✗ No abstract found")
-                                
-                            # Rate limiting - wait 1 second between requests
-                            sleep(1)
-                            
-                        except requests.exceptions.RequestException as e:
-                            print(f"❌ API Error: {str(e)}")
-                            print("Stopping process due to API error")
-                            return {"error": f"API Error: {str(e)}"}, stats
-                        except Exception as e:
-                            print(f"❌ Error processing paper: {str(e)}")
-                            stats["errors"] += 1
-                    else:
-                        print(f"\nPaper {i}/{len(papers_to_process)} has no DOI, skipping")
+            print(f"Found {len(papers_to_process)} papers to check for abstracts")
+            
+            for i, paper in enumerate(papers_to_process, 1):
+                doi = paper.get("metadata", {}).get("doi")
+                if doi:
+                    print(f"\nProcessing paper {i}/{len(papers_to_process)}")
+                    print(f"DOI: {doi}")
                     
+                    try:
+                        semantic_paper = semantic_scholar.get_paper_details(doi)
+                        
+                        if semantic_paper and semantic_paper.get("abstract"):
+                            paper["abstract"] = semantic_paper["abstract"]
+                            paper["metadata"]["abstract_available"] = "yes"
+                            stats["new_abstracts_added"] += 1
+                            print("✓ Successfully added abstract")
+                        else:
+                            paper["metadata"]["abstract_available"] = "not available"
+                            print("✗ No abstract found")
+                        
+                        # Save after each paper is processed
+                        with open(file_path, 'w', encoding='utf-8') as f:
+                            json.dump(papers, f, indent=2, ensure_ascii=False)
+                        print("✓ Saved progress to file")
+                        
+                    except requests.exceptions.RequestException as e:
+                        print(f"❌ API Error: {str(e)}")
+                        print("Stopping process due to API error")
+                        return {"error": f"API Error: {str(e)}"}, stats
+                        
         except Exception as e:
-            print(f"❌ Error processing file {filename}: {str(e)}")
+            print(f"Error processing file {filename}: {str(e)}")
             stats["errors"] += 1
-            return {"error": f"Error processing file {filename}: {str(e)}"}, stats
-    
-    print("\n=== Enrichment Process Complete ===")
-    print(f"Total files processed: {stats['total_files']}")
-    print(f"Total papers: {stats['total_papers']}")
-    print(f"Papers with abstracts: {stats['papers_with_abstracts']}")
-    print(f"New abstracts added: {stats['new_abstracts_added']}")
-    print(f"Errors encountered: {stats['errors']}")
-    
-    return {"message": "Data enrichment complete"}, stats
+            continue
+            
+    return {"message": "Abstract enrichment completed"}, stats
 
 @app.route('/', methods=['GET'])
 def index():
